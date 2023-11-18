@@ -1,0 +1,307 @@
+@font-face {
+    font-family: 'Circular-Black';
+    src: url("/static/fonts/CircularStd-Black.otf") format("opentype");
+}
+@font-face {
+    font-family: 'Circular-Bold';
+    src: url("/static/fonts/CircularStd-Bold.otf") format("opentype");
+}
+@font-face {
+    font-family: 'Circular-Book';
+    src: url("/static/fonts/CircularStd-Book.otf") format("opentype");
+}
+@font-face {
+    font-family: 'Circular-Light';
+    src: url("/static/fonts/CircularStd-Light.otf") format("opentype");
+}
+@font-face {
+    font-family: 'Circular-Medium';
+    src: url("/static/fonts/CircularStd-Medium.otf") format("opentype");
+}
+
+
+
+body {
+    background-color: #212121;
+    font-family: Circular-Book;
+    font-size: 100%;
+    color: #fff;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.title1 {
+    font-size: 6rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.title2 {
+    font-size: 6rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+
+.playlists {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    justify-content: center;
+    
+}
+
+
+  /* Use rem units for all other elements */
+.header {
+    font-family: Circular-Bold;
+    font-size: 2rem;
+    color: #fff;
+    margin: 2rem 0;
+    text-align: center;
+}
+  
+
+.links-view {
+
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+  }
+
+  .overlay.show {
+    display: block;
+  }
+  
+  .overlay.show + .modal {
+    display: block;
+  }
+
+.modal {
+    border-color: #fff;
+    z-index: 2;
+    display: none;
+    
+
+    margin: 2rem;
+    padding: 2rem;
+
+}
+.modal-content {
+    display: flex;
+    align-items: flex-start;
+    margin: 2rem;
+    border-color: #fff;
+
+    
+}
+.modal-left {
+    width: 20%;
+    padding: 2rem;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    border-color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.modal-right {
+    width: 80%;
+    padding: 2rem;
+    margin: 2rem;
+    width: 100%;
+    border-color: #fff;
+    border-style: solid;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-img {
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nodes-view {
+    display: none;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 0.25rem solid #fff;
+    position: fixed;
+    padding: 1rem;
+    width: 50%;
+    height: 50%;
+    z-index: 2;
+    color:#fff;
+    border-radius: 0.5rem;
+    background-color: rgba(0,0,0); /* Black w/ opacity */
+    
+}
+.nodes-view .close-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 2rem;
+    cursor: pointer;
+    color: #fff;
+    margin: 0.5rem;
+    padding-right: 1rem;
+}
+
+
+.nodes-info img{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+
+.nodes-info .artist-link {
+    text-decoration: none;
+    font-family: Circular-Bold;
+    color: white;
+}
+.minimized-artist-name {
+    font-family: Circular-Bold;
+    color: white;
+    display: none;
+}
+
+
+.nodes-info .followers, .song-count {
+    font-family: Circular-Light;
+    text-align: center;
+
+}
+
+.song-list {
+    font-family: Circular-Bold;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+    overflow-y: scroll;
+}
+
+.song-title {
+    font-family: Circular-Light;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+}
+
+/* Default styles for the graph */
+.graph {
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  /* Styles for small screens */
+  @media (max-width: 480px) {
+    .graph {
+      height: 300px;
+    }
+  }
+  
+  /* Styles for medium screens */
+  @media (min-width: 481px) and (max-width: 768px) {
+    .graph {
+      height: 400px;
+    }
+  }
+  
+
+
+  .track_name {
+    cursor: pointer;
+    padding: 2rem;
+
+  }
+
+  .track_name:hover {
+    background-color: #4d4d4d;
+  }
+
+
+  .header-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: xx-large;
+    padding: 4rem;
+  }
+
+  .tracker-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem;
+  }
+
+
+  .artist-btn {
+    width: 16rem;
+    height: 16rem;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    background-size: cover;
+    cursor: pointer;
+    position: relative;
+
+  }
+
+  .artist-btn:hover {
+    
+  }
+
+  .artist-btn-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 50%;
+    background-size: cover;
+    transition: opacity 0.3s ease-in-out; /* Add smooth transition */
+    display: none; 
+  }
+
+  .artist-text-overlay {
+    text-align: center;
+    color: white;
+    opacity: 0;
+    transition: opacity 0.15s ease-out; /* Add smooth transition */
+
+  }
+
+  button:hover .artist-btn-overlay {
+    display: block; /* Show the overlay on hover */
+  }
+
+  button:hover .artist-text-overlay {
+    opacity: 1;
+    color: #fff;
+
+  }

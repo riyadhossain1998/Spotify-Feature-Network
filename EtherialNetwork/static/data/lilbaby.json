@@ -1,0 +1,1645 @@
+{
+    "nodes": [
+        {
+            "name": "Lil Baby",
+            "artist_id": "5f7VJjfbwm532GiveGC0ZK",
+            "popularity": 84,
+            "followers": 15813833,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb6cad3eff5adc29e20f189a6c",
+            "profile_url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK",
+            "genres": [
+                "atl hip hop",
+                "atl trap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "19n0UZuW8AArMVWNztoXu9",
+                "3ihIZrJreMJPjQdNLrEXnP",
+                "6ws54n2IzyrIxxyzlG2bVJ",
+                "4nNw167LUp6j2VvuJdbtv8",
+                "4F6yN5FsFW10Ucx7cLCzBh",
+                "6heRfvHrUIIPx9TqRg8SCq",
+                "1sMalYr4ASm3kOr3K9JEh6",
+                "7ge7BHazYbVKi8qyZUX1Bm",
+                "3jweuceENR5zzn10LhcjPH",
+                "4lUmnwRybYH7mMzf16xB0y",
+                "7euzAmn980JdEcYbIeWHtB",
+                "5m0yZ33oOy0yYBtdTXuxQe",
+                "62nb5YUYUqtYJhVPwRhCke",
+                "3E3pb3qH11iny6TFDJvsg5",
+                "2ELp0EL65yitpfJYwc5983",
+                "3vJKLsUYcC7mARUTOMUPaJ",
+                "5cAN3P7jWVf78gev1eF7TJ",
+                "6dug6dIV40JMz2myhafHrm",
+                "2L6lh2RmMs1yz4FQzdbwOn",
+                "6MSyik7EzWsHQjTOPLFBrr",
+                "6h4JuOPlHFYpHPIEmBwbus",
+                "577YBGuskWkVDCxZrLRB4v",
+                "7cW1wHpSLYgKWzoWlOCPFJ",
+                "39RWYLt6hgk9BbhkDgaHW9",
+                "1Szfm2XAx3Kgl55dyl8sTU",
+                "3yIZgYN7AKO3cDueyhpuCS",
+                "6pidGCJ9El17HdXaPO0OO2",
+                "7cEZShpmZ7dencnV8ibyUS",
+                "0uQzOOq3aC9mszrmLLYoU3",
+                "3T9BKc4kB7ukeNQrCqv6ZV",
+                "6inHSFgzJCNhgtSlu5Wtc2",
+                "6gxKUmycQX7uyMwJcweFjp",
+                "5BbdKBZO0TH0GhfxUfyhL9",
+                "65OVbaJR5O1RmwOQx0875b",
+                "6tsVFchreYTt2OPXSOoFCX",
+                "7CEJH5Ed7FBbXF6CqBQPlJ",
+                "77XX5hXetVXqpocVnbPhzT",
+                "0T7GMqDSnmVEXUx5NIQfNn",
+                "6vN77lE9LK6HP2DewaN6HZ",
+                "0FIcYpNaqZaJnP3yDcaBN6",
+                "2bSk87AVkCIIC3Bcligq1z",
+                "38844QuZDlnt44uHPrSA3S",
+                "01JMnRUs2YOK6DDpdQASGY",
+                "0j3gn2XU2dIDSoDEEJqKpI",
+                "3tDqEKKUs6gf8zMvSuLyLA",
+                "55WLWX71YkHt2tSucNIf1g",
+                "3F57PtOdqRpD6euFYqtKXX",
+                "61FfbHfk4qT8ZzNA5dqN9j",
+                "7KSSdFCBHCfq4KPzz78ghk",
+                "4Iedi94TIaB2GGb1nMB68v",
+                "14X1WxiHXdVRJ99cMCBzOE",
+                "5f4Hy5mw5SRaUgXX9c6P5S",
+                "40TPiJpvwGIyvPjJMDTKfy",
+                "1EJIcDYXwSqipW5dFe4uJz",
+                "4Qd0pa3JO76UEwhos9JmN0",
+                "69PkhA9q3xCWU2CzoZnLAu",
+                "3gOL6mYIq19Oq8raxIntrV",
+                "3zWR0zS9p39c0FVkYkHfVF",
+                "5LtzwqIWPXKEYfVcaY3bjc",
+                "5BCzsnN4U4OvOegjErHTUF",
+                "6O04OXXHeOVMbbIIoUBoXR",
+                "1zIb1bYJAo1UdR2Xf4oESb",
+                "0b7UwotRCrS7qBoLDjfvSY",
+                "5lf3ajySox32qFvGEf2TFM",
+                "1ZRjLZcNTm1vUgrexBp3px",
+                "4rmXVKUSU0PIblRyYFZHHi",
+                "1jeGQJsJHwaeRhfoQ2BvMB",
+                "24ewsi0MEMUHXMrdQT2t7W",
+                "7roKDmJDOzkpfGpUQJ5EnL",
+                "7wxl36fAGU3Afv87ZblUwg",
+                "2Z9wPJaKys1LAOlcBtjvOU",
+                "7eX3um6NpOQKWJMGCi97XD",
+                "7fSM2taFBEB1WNZl8AOIoo",
+                "7nk0dNiKc4rB9jTiXT3V46",
+                "4OkFBMU18NidtaefaTjUq1",
+                "26Hgx0810XUis01XWvoftB",
+                "6ug9fUi5oLLgQgOF1G8WkM",
+                "3JVFg9xLmLJQnFfmMXICXJ",
+                "1uOkLTBD5wTA36qK32SfsK",
+                "1Py8c3dkLF0YczcAyBFBEM",
+                "02mYw61RoS1vXvkD9Q5dpN",
+                "7i3NiyX4x4WZ8xZjIXWi4s",
+                "2b7rt5gCEy2p2zTp656s4U",
+                "52i143Ph5c3RQaQFBXWix1",
+                "1rUHgZy3YOrs3MarByuvJC",
+                "7tgEm1rQTA603HnZYRDgKL",
+                "6Tguhaf2uAe6OjRLsR2Tql",
+                "6A9wHAasMxed0firnDao1K",
+                "2WqTKOAUmv7hz9ZzGnXHrY",
+                "78QR3Wp35dqAhFEc2qAGjE",
+                "3HD2dcCVCMIUgq3ZiSExpD",
+                "2HHLfzE7PkljuqyYU4vwmh",
+                "0tedTyVPg2zlvcBRkLa4Ab"
+            ]
+        },
+        {
+            "name": "Icewear Vezzo",
+            "artist_id": "1ZbmerOthZbxz5eR3c9Mn1",
+            "popularity": 54,
+            "followers": 183010,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb01f5ce6c512ac01d63e74bc8",
+            "profile_url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1",
+            "genres": [
+                "detroit hip hop",
+                "detroit trap",
+                "florida drill",
+                "memphis hip hop"
+            ],
+            "tracklist": [
+                "6inHSFgzJCNhgtSlu5Wtc2"
+            ]
+        },
+        {
+            "name": "Moneybagg Yo",
+            "artist_id": "3tJoFztHeIJkJWMrx0td2f",
+            "popularity": 73,
+            "followers": 4120886,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb6d2f8e8fbf5b13b1baa1eeff",
+            "profile_url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f",
+            "genres": [
+                "memphis hip hop",
+                "rap",
+                "southern hip hop",
+                "tennessee hip hop",
+                "trap"
+            ],
+            "tracklist": [
+                "6A9wHAasMxed0firnDao1K"
+            ]
+        },
+        {
+            "name": "Rylo Rodriguez",
+            "artist_id": "0gg11prPP6OqtUvBcKnPpq",
+            "popularity": 60,
+            "followers": 405949,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb856c18adbbf4f92ff6b6ac7f",
+            "profile_url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq",
+            "genres": [
+                "alabama rap",
+                "atl trap",
+                "tennessee hip hop"
+            ],
+            "tracklist": [
+                "6pidGCJ9El17HdXaPO0OO2",
+                "7wxl36fAGU3Afv87ZblUwg"
+            ]
+        },
+        {
+            "name": "Rob49",
+            "artist_id": "1jBoSSrbz9n4ehQWA4cZgB",
+            "popularity": 62,
+            "followers": 82593,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb5845f958ca233001014cc3c6",
+            "profile_url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB",
+            "genres": [
+                "new orleans rap"
+            ],
+            "tracklist": [
+                "0tedTyVPg2zlvcBRkLa4Ab"
+            ]
+        },
+        {
+            "name": "Lil Keed",
+            "artist_id": "3uJx5SnOM59Li7lCxA3b29",
+            "popularity": 53,
+            "followers": 970139,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb4f7a790a562d37c1ceaa6e96",
+            "profile_url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29",
+            "genres": [
+                "melodic rap",
+                "trap"
+            ],
+            "tracklist": [
+                "6O04OXXHeOVMbbIIoUBoXR"
+            ]
+        },
+        {
+            "name": "Nardo Wick",
+            "artist_id": "0Njy6yR9LykNKYg9yE23QN",
+            "popularity": 66,
+            "followers": 880144,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb5f9a514b78fb68c14233e867",
+            "profile_url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN",
+            "genres": [
+                "florida drill",
+                "florida rap",
+                "southern hip hop"
+            ],
+            "tracklist": [
+                "2HHLfzE7PkljuqyYU4vwmh"
+            ]
+        },
+        {
+            "name": "Flipp Dinero",
+            "artist_id": "2HUwZ0kumzCSlhFcjFZfpp",
+            "popularity": 54,
+            "followers": 1282317,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb8be85e344141cf541cfab04c",
+            "profile_url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp",
+            "genres": [
+                "melodic rap",
+                "trap"
+            ],
+            "tracklist": [
+                "14X1WxiHXdVRJ99cMCBzOE"
+            ]
+        },
+        {
+            "name": "Lil Durk",
+            "artist_id": "3hcs9uc56yIGFCSy9leWe7",
+            "popularity": 80,
+            "followers": 6508345,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eba0461c1f2218374aa672ce4e",
+            "profile_url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7",
+            "genres": [
+                "chicago drill",
+                "chicago rap",
+                "drill",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "4nNw167LUp6j2VvuJdbtv8",
+                "3jweuceENR5zzn10LhcjPH",
+                "4lUmnwRybYH7mMzf16xB0y",
+                "62nb5YUYUqtYJhVPwRhCke",
+                "3E3pb3qH11iny6TFDJvsg5",
+                "2ELp0EL65yitpfJYwc5983",
+                "3vJKLsUYcC7mARUTOMUPaJ",
+                "5cAN3P7jWVf78gev1eF7TJ",
+                "6dug6dIV40JMz2myhafHrm",
+                "2L6lh2RmMs1yz4FQzdbwOn",
+                "6MSyik7EzWsHQjTOPLFBrr",
+                "6h4JuOPlHFYpHPIEmBwbus",
+                "3T9BKc4kB7ukeNQrCqv6ZV",
+                "61FfbHfk4qT8ZzNA5dqN9j",
+                "1EJIcDYXwSqipW5dFe4uJz",
+                "3zWR0zS9p39c0FVkYkHfVF",
+                "5LtzwqIWPXKEYfVcaY3bjc",
+                "5BCzsnN4U4OvOegjErHTUF",
+                "6Tguhaf2uAe6OjRLsR2Tql"
+            ]
+        },
+        {
+            "name": "Trippie Redd",
+            "artist_id": "6Xgp2XMz1fhVYe7i6yNAax",
+            "popularity": 78,
+            "followers": 9133341,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebf2db81b3312a1f167fc54096",
+            "profile_url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax",
+            "genres": [
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "1uOkLTBD5wTA36qK32SfsK"
+            ]
+        },
+        {
+            "name": "Travis Scott",
+            "artist_id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "popularity": 90,
+            "followers": 25051327,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+            "profile_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+            "genres": [
+                "hip hop",
+                "rap",
+                "slap house"
+            ],
+            "tracklist": [
+                "4lUmnwRybYH7mMzf16xB0y"
+            ]
+        },
+        {
+            "name": "SleazyWorld Go",
+            "artist_id": "7FOQfJbC3e4GNoheojERnF",
+            "popularity": 60,
+            "followers": 262559,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb547054f79de1bbc000368f5c",
+            "profile_url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF",
+            "genres": [
+                "rva drill"
+            ],
+            "tracklist": [
+                "3HD2dcCVCMIUgq3ZiSExpD"
+            ]
+        },
+        {
+            "name": "Meek Mill",
+            "artist_id": "20sxb77xiYeusSH8cVdatc",
+            "popularity": 73,
+            "followers": 7662145,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb238b2a30c741d42a4c91b7b7",
+            "profile_url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc",
+            "genres": [
+                "hip hop",
+                "philly rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "tracklist": [
+                "5cAN3P7jWVf78gev1eF7TJ",
+                "1Szfm2XAx3Kgl55dyl8sTU",
+                "3T9BKc4kB7ukeNQrCqv6ZV"
+            ]
+        },
+        {
+            "name": "42 Dugg",
+            "artist_id": "45gHcnDnMC15sgx3VL7ROG",
+            "popularity": 68,
+            "followers": 914130,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb40c29d16a1bc236c8c67bb14",
+            "profile_url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG",
+            "genres": [
+                "detroit trap",
+                "southern hip hop",
+                "trap"
+            ],
+            "tracklist": [
+                "6gxKUmycQX7uyMwJcweFjp",
+                "01JMnRUs2YOK6DDpdQASGY",
+                "3gOL6mYIq19Oq8raxIntrV",
+                "0b7UwotRCrS7qBoLDjfvSY"
+            ]
+        },
+        {
+            "name": "Gunna",
+            "artist_id": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "popularity": 82,
+            "followers": 6197906,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb6501f8a7d50c56e86e46f920",
+            "profile_url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ",
+            "genres": [
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "4F6yN5FsFW10Ucx7cLCzBh",
+                "0uQzOOq3aC9mszrmLLYoU3",
+                "6tsVFchreYTt2OPXSOoFCX",
+                "2bSk87AVkCIIC3Bcligq1z",
+                "38844QuZDlnt44uHPrSA3S",
+                "55WLWX71YkHt2tSucNIf1g",
+                "3F57PtOdqRpD6euFYqtKXX",
+                "7KSSdFCBHCfq4KPzz78ghk",
+                "1jeGQJsJHwaeRhfoQ2BvMB",
+                "7roKDmJDOzkpfGpUQJ5EnL",
+                "2Z9wPJaKys1LAOlcBtjvOU",
+                "02mYw61RoS1vXvkD9Q5dpN",
+                "78QR3Wp35dqAhFEc2qAGjE"
+            ]
+        },
+        {
+            "name": "Rod Wave",
+            "artist_id": "45TgXXqMDdF8BkjA83OM7z",
+            "popularity": 78,
+            "followers": 5847660,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb33d61db3385a29fb5e98f1cd",
+            "profile_url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z",
+            "genres": [
+                "florida rap"
+            ],
+            "tracklist": [
+                "6MSyik7EzWsHQjTOPLFBrr",
+                "40TPiJpvwGIyvPjJMDTKfy"
+            ]
+        },
+        {
+            "name": "Future",
+            "artist_id": "1RyvyyTE3xzB2ZywiAwp0i",
+            "popularity": 87,
+            "followers": 15247690,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb24e41f491b129093a6fee383",
+            "profile_url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
+            "genres": [
+                "atl hip hop",
+                "hip hop",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "tracklist": [
+                "4Qd0pa3JO76UEwhos9JmN0",
+                "3gOL6mYIq19Oq8raxIntrV",
+                "4rmXVKUSU0PIblRyYFZHHi",
+                "2HHLfzE7PkljuqyYU4vwmh"
+            ]
+        },
+        {
+            "name": "Lil Uzi Vert",
+            "artist_id": "4O15NlyKLIASxsJ0PrXPfz",
+            "popularity": 83,
+            "followers": 16170809,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb1234d2f516796badbdf16a89",
+            "profile_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+            "genres": [
+                "hip hop",
+                "melodic rap",
+                "philly rap",
+                "rage rap",
+                "rap"
+            ],
+            "tracklist": [
+                "2bSk87AVkCIIC3Bcligq1z",
+                "3tDqEKKUs6gf8zMvSuLyLA"
+            ]
+        },
+        {
+            "name": "Drake",
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "popularity": 95,
+            "followers": 81801944,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+            "profile_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "tracklist": [
+                "65OVbaJR5O1RmwOQx0875b",
+                "6vN77lE9LK6HP2DewaN6HZ",
+                "4Qd0pa3JO76UEwhos9JmN0"
+            ]
+        },
+        {
+            "name": "Gucci Mane",
+            "artist_id": "13y7CgLHjMVRMDqxdx0Xdo",
+            "popularity": 74,
+            "followers": 5118812,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebb9b77f64bd278ffde2c94428",
+            "profile_url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo",
+            "genres": [
+                "atl hip hop",
+                "dirty south rap",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "tracklist": [
+                "2WqTKOAUmv7hz9ZzGnXHrY"
+            ]
+        },
+        {
+            "name": "Rvssian",
+            "artist_id": "1fctva4kpRbg2k3v7kwRuS",
+            "popularity": 64,
+            "followers": 2555960,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb5c47f60fa25bac61049892c8",
+            "profile_url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS",
+            "genres": [
+                "reggaeton",
+                "reggaeton flow",
+                "trap latino",
+                "urbano latino"
+            ],
+            "tracklist": [
+                "4rmXVKUSU0PIblRyYFZHHi"
+            ]
+        },
+        {
+            "name": "DJ Khaled",
+            "artist_id": "0QHgL1lAIqAw0HtD7YldmP",
+            "popularity": 73,
+            "followers": 10657518,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb084f36c2ae2da4a02494e1e5",
+            "profile_url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP",
+            "genres": [
+                "hip hop",
+                "miami hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "tracklist": [
+                "1EJIcDYXwSqipW5dFe4uJz"
+            ]
+        },
+        {
+            "name": "DaBaby",
+            "artist_id": "4r63FhuTkUYltbVAg5TQnk",
+            "popularity": 77,
+            "followers": 11350675,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a",
+            "profile_url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk",
+            "genres": [
+                "hip hop",
+                "north carolina hip hop",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "4Qd0pa3JO76UEwhos9JmN0"
+            ]
+        },
+        {
+            "name": "Polo G",
+            "artist_id": "6AgTAQt8XS6jRWi4sX7w49",
+            "popularity": 79,
+            "followers": 10350480,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebbedf3bdf589da06d1567196c",
+            "profile_url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49",
+            "genres": [
+                "chicago rap",
+                "rap"
+            ],
+            "tracklist": [
+                "6Tguhaf2uAe6OjRLsR2Tql"
+            ]
+        },
+        {
+            "name": "Offset",
+            "artist_id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+            "popularity": 79,
+            "followers": 3218975,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56",
+            "profile_url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW",
+            "genres": [
+                "atl hip hop",
+                "hip hop",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "2WqTKOAUmv7hz9ZzGnXHrY"
+            ]
+        },
+        {
+            "name": "Starlito",
+            "artist_id": "4SjND9kT6Ja5TSPZTyUUab",
+            "popularity": 44,
+            "followers": 373972,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb51d557df3e28750bd8845694",
+            "profile_url": "https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab",
+            "genres": [
+                "nashville hip hop",
+                "tennessee hip hop",
+                "trap"
+            ],
+            "tracklist": [
+                "1zIb1bYJAo1UdR2Xf4oESb"
+            ]
+        },
+        {
+            "name": "Young Thug",
+            "artist_id": "50co4Is1HCEo8bhOyUWKpn",
+            "popularity": 81,
+            "followers": 9125254,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed",
+            "profile_url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn",
+            "genres": [
+                "atl hip hop",
+                "atl trap",
+                "gangster rap",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "2L6lh2RmMs1yz4FQzdbwOn",
+                "38844QuZDlnt44uHPrSA3S",
+                "1Py8c3dkLF0YczcAyBFBEM"
+            ]
+        },
+        {
+            "name": "Veeze",
+            "artist_id": "0B3kMiB21aPQlKumGDr4c7",
+            "popularity": 60,
+            "followers": 98150,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb7a96f6990c7005c723b4799f",
+            "profile_url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7",
+            "genres": [
+                "detroit hip hop",
+                "scam rap"
+            ],
+            "tracklist": [
+                "0b7UwotRCrS7qBoLDjfvSY"
+            ]
+        },
+        {
+            "name": "EST Gee",
+            "artist_id": "4FlG0V0jhLO4qGpayFOphj",
+            "popularity": 64,
+            "followers": 487971,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebf6ee8f565f86fed366b55840",
+            "profile_url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj",
+            "genres": [
+                "kentucky hip hop",
+                "memphis hip hop",
+                "southern hip hop"
+            ],
+            "tracklist": [
+                "7eX3um6NpOQKWJMGCi97XD"
+            ]
+        },
+        {
+            "name": "Quavo",
+            "artist_id": "0VRj0yCOv2FXJNP47XQnx5",
+            "popularity": 76,
+            "followers": 7023145,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb14f31cb638401481a5bdfc45",
+            "profile_url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5",
+            "genres": [
+                "atl hip hop",
+                "melodic rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "69PkhA9q3xCWU2CzoZnLAu"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_4nNw167LUp6j2VvuJdbtv8",
+            "track_id": "4nNw167LUp6j2VvuJdbtv8",
+            "name": "Man of my Word",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/05050608eaa4afc0a8e26344d51320e9a59016eb?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4nNw167LUp6j2VvuJdbtv8",
+            "collab_count": 19
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_4F6yN5FsFW10Ucx7cLCzBh",
+            "track_id": "4F6yN5FsFW10Ucx7cLCzBh",
+            "name": "Ready (feat. Gunna)",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/81d9a488615e951c7ac2c4e46439000770327639?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh",
+            "collab_count": 13
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_3jweuceENR5zzn10LhcjPH",
+            "track_id": "3jweuceENR5zzn10LhcjPH",
+            "name": "Okay",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5f5bed634b1c6c0d52b6dfed9fa21164ea28abc?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH",
+            "collab_count": 19
+        },
+        {
+            "source": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "target": "3hcs9uc56yIGFCSy9leWe7",
+            "connection_id": "0Y5tJX1MQlPlqiwlOH1tJY_3hcs9uc56yIGFCSy9leWe7_4lUmnwRybYH7mMzf16xB0y",
+            "track_id": "4lUmnwRybYH7mMzf16xB0y",
+            "name": "Hats Off (feat. Travis Scott)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/c85b17c13f6c489034b02f58f52e30e8d6cfd30e?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y",
+            "collab_count": 1
+        },
+        {
+            "source": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "0Y5tJX1MQlPlqiwlOH1tJY_5f7VJjfbwm532GiveGC0ZK_4lUmnwRybYH7mMzf16xB0y",
+            "track_id": "4lUmnwRybYH7mMzf16xB0y",
+            "name": "Hats Off (feat. Travis Scott)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/c85b17c13f6c489034b02f58f52e30e8d6cfd30e?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y",
+            "collab_count": 1
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_4lUmnwRybYH7mMzf16xB0y",
+            "track_id": "4lUmnwRybYH7mMzf16xB0y",
+            "name": "Hats Off (feat. Travis Scott)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/c85b17c13f6c489034b02f58f52e30e8d6cfd30e?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_62nb5YUYUqtYJhVPwRhCke",
+            "track_id": "62nb5YUYUqtYJhVPwRhCke",
+            "name": "How It Feels",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/a6af99910b91d5c6b9b9a6add721765c1e456bfa?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_3E3pb3qH11iny6TFDJvsg5",
+            "track_id": "3E3pb3qH11iny6TFDJvsg5",
+            "name": "Voice of the Heroes",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/37e2a5a5e0ca5836070b499aabc3f5bceb5f2183?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_2ELp0EL65yitpfJYwc5983",
+            "track_id": "2ELp0EL65yitpfJYwc5983",
+            "name": "2040",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/b6157012f9da94d59193d3ece6e61b2d42295e79?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2ELp0EL65yitpfJYwc5983",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_3vJKLsUYcC7mARUTOMUPaJ",
+            "track_id": "3vJKLsUYcC7mARUTOMUPaJ",
+            "name": "Who I Want",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/ebaab0822c90bde14d166b996a0c58a65c24d1a1?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3vJKLsUYcC7mARUTOMUPaJ",
+            "collab_count": 19
+        },
+        {
+            "source": "20sxb77xiYeusSH8cVdatc",
+            "target": "3hcs9uc56yIGFCSy9leWe7",
+            "connection_id": "20sxb77xiYeusSH8cVdatc_3hcs9uc56yIGFCSy9leWe7_5cAN3P7jWVf78gev1eF7TJ",
+            "track_id": "5cAN3P7jWVf78gev1eF7TJ",
+            "name": "Still Runnin (feat. Meek Mill)",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/3310a265853790192fea9c2dc3e2ff03995c55b5?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ",
+            "collab_count": 2
+        },
+        {
+            "source": "20sxb77xiYeusSH8cVdatc",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "20sxb77xiYeusSH8cVdatc_5f7VJjfbwm532GiveGC0ZK_5cAN3P7jWVf78gev1eF7TJ",
+            "track_id": "5cAN3P7jWVf78gev1eF7TJ",
+            "name": "Still Runnin (feat. Meek Mill)",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/3310a265853790192fea9c2dc3e2ff03995c55b5?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ",
+            "collab_count": 3
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_5cAN3P7jWVf78gev1eF7TJ",
+            "track_id": "5cAN3P7jWVf78gev1eF7TJ",
+            "name": "Still Runnin (feat. Meek Mill)",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/3310a265853790192fea9c2dc3e2ff03995c55b5?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_6dug6dIV40JMz2myhafHrm",
+            "track_id": "6dug6dIV40JMz2myhafHrm",
+            "name": "That's Facts",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/de1f49c0a0996eb8aab20048ab98d0f921e02e99?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6dug6dIV40JMz2myhafHrm",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "50co4Is1HCEo8bhOyUWKpn",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_50co4Is1HCEo8bhOyUWKpn_2L6lh2RmMs1yz4FQzdbwOn",
+            "track_id": "2L6lh2RmMs1yz4FQzdbwOn",
+            "name": "Up The Side (feat. Young Thug)",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c859c81815a87a6ead9f9b65a8cc88bb2822f51f?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2L6lh2RmMs1yz4FQzdbwOn",
+            "collab_count": 1
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_2L6lh2RmMs1yz4FQzdbwOn",
+            "track_id": "2L6lh2RmMs1yz4FQzdbwOn",
+            "name": "Up The Side (feat. Young Thug)",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c859c81815a87a6ead9f9b65a8cc88bb2822f51f?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2L6lh2RmMs1yz4FQzdbwOn",
+            "collab_count": 19
+        },
+        {
+            "source": "50co4Is1HCEo8bhOyUWKpn",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "50co4Is1HCEo8bhOyUWKpn_5f7VJjfbwm532GiveGC0ZK_2L6lh2RmMs1yz4FQzdbwOn",
+            "track_id": "2L6lh2RmMs1yz4FQzdbwOn",
+            "name": "Up The Side (feat. Young Thug)",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c859c81815a87a6ead9f9b65a8cc88bb2822f51f?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2L6lh2RmMs1yz4FQzdbwOn",
+            "collab_count": 3
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "45TgXXqMDdF8BkjA83OM7z",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_45TgXXqMDdF8BkjA83OM7z_6MSyik7EzWsHQjTOPLFBrr",
+            "track_id": "6MSyik7EzWsHQjTOPLFBrr",
+            "name": "Rich Off Pain (feat. Rod Wave)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3f7e7279e8256920bb66a6013ee036c9fc76f05?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr",
+            "collab_count": 1
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_6MSyik7EzWsHQjTOPLFBrr",
+            "track_id": "6MSyik7EzWsHQjTOPLFBrr",
+            "name": "Rich Off Pain (feat. Rod Wave)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3f7e7279e8256920bb66a6013ee036c9fc76f05?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr",
+            "collab_count": 19
+        },
+        {
+            "source": "45TgXXqMDdF8BkjA83OM7z",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "45TgXXqMDdF8BkjA83OM7z_5f7VJjfbwm532GiveGC0ZK_6MSyik7EzWsHQjTOPLFBrr",
+            "track_id": "6MSyik7EzWsHQjTOPLFBrr",
+            "name": "Rich Off Pain (feat. Rod Wave)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3f7e7279e8256920bb66a6013ee036c9fc76f05?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr",
+            "collab_count": 2
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_6h4JuOPlHFYpHPIEmBwbus",
+            "track_id": "6h4JuOPlHFYpHPIEmBwbus",
+            "name": "Make It Out",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/39b0e2017fbe79076c5d66ec28db1fcbdced9be4?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6h4JuOPlHFYpHPIEmBwbus",
+            "collab_count": 19
+        },
+        {
+            "source": "20sxb77xiYeusSH8cVdatc",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "20sxb77xiYeusSH8cVdatc_5f7VJjfbwm532GiveGC0ZK_1Szfm2XAx3Kgl55dyl8sTU",
+            "track_id": "1Szfm2XAx3Kgl55dyl8sTU",
+            "name": "Time (feat. Meek Mill)",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d66256653dd2d3116b78a6309ed45aa8aecef7f?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU",
+            "collab_count": 3
+        },
+        {
+            "source": "0gg11prPP6OqtUvBcKnPpq",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "0gg11prPP6OqtUvBcKnPpq_5f7VJjfbwm532GiveGC0ZK_6pidGCJ9El17HdXaPO0OO2",
+            "track_id": "6pidGCJ9El17HdXaPO0OO2",
+            "name": "No Friends (feat. Rylo Rodriguez)",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc461b0b129997d83994dc2826e6db691a55857b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6pidGCJ9El17HdXaPO0OO2",
+            "collab_count": 2
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_0uQzOOq3aC9mszrmLLYoU3",
+            "track_id": "0uQzOOq3aC9mszrmLLYoU3",
+            "name": "Money Forever",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/a6a5243bc3b6ba8712059a11d439d7d9e6ba557e?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/0uQzOOq3aC9mszrmLLYoU3",
+            "collab_count": 13
+        },
+        {
+            "source": "20sxb77xiYeusSH8cVdatc",
+            "target": "3hcs9uc56yIGFCSy9leWe7",
+            "connection_id": "20sxb77xiYeusSH8cVdatc_3hcs9uc56yIGFCSy9leWe7_3T9BKc4kB7ukeNQrCqv6ZV",
+            "track_id": "3T9BKc4kB7ukeNQrCqv6ZV",
+            "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/1fd2b7c307a4fdf5a46236cc4c1c58cbc0146c17?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3T9BKc4kB7ukeNQrCqv6ZV",
+            "collab_count": 2
+        },
+        {
+            "source": "20sxb77xiYeusSH8cVdatc",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "20sxb77xiYeusSH8cVdatc_5f7VJjfbwm532GiveGC0ZK_3T9BKc4kB7ukeNQrCqv6ZV",
+            "track_id": "3T9BKc4kB7ukeNQrCqv6ZV",
+            "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/1fd2b7c307a4fdf5a46236cc4c1c58cbc0146c17?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3T9BKc4kB7ukeNQrCqv6ZV",
+            "collab_count": 3
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_3T9BKc4kB7ukeNQrCqv6ZV",
+            "track_id": "3T9BKc4kB7ukeNQrCqv6ZV",
+            "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/1fd2b7c307a4fdf5a46236cc4c1c58cbc0146c17?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3T9BKc4kB7ukeNQrCqv6ZV",
+            "collab_count": 19
+        },
+        {
+            "source": "1ZbmerOthZbxz5eR3c9Mn1",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1ZbmerOthZbxz5eR3c9Mn1_5f7VJjfbwm532GiveGC0ZK_6inHSFgzJCNhgtSlu5Wtc2",
+            "track_id": "6inHSFgzJCNhgtSlu5Wtc2",
+            "name": "Know the Difference (feat. Lil Baby)",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/1c44f3b300e8bad3430825918c4d48ec056936fb?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6inHSFgzJCNhgtSlu5Wtc2",
+            "collab_count": 1
+        },
+        {
+            "source": "45gHcnDnMC15sgx3VL7ROG",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "45gHcnDnMC15sgx3VL7ROG_5f7VJjfbwm532GiveGC0ZK_6gxKUmycQX7uyMwJcweFjp",
+            "track_id": "6gxKUmycQX7uyMwJcweFjp",
+            "name": "We Paid (feat. 42 Dugg)",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/85c59e875a6cbad3f42ffb23515e044d8b91cae8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp",
+            "collab_count": 4
+        },
+        {
+            "source": "3TVXtAsR1Inumwj472S9r4",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3TVXtAsR1Inumwj472S9r4_5f7VJjfbwm532GiveGC0ZK_65OVbaJR5O1RmwOQx0875b",
+            "track_id": "65OVbaJR5O1RmwOQx0875b",
+            "name": "Wants and Needs (feat. Lil Baby)",
+            "popularity": 83,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea0ccb0e07adce9579d8afe74dbbf3b0ee781b39?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b",
+            "collab_count": 3
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_6tsVFchreYTt2OPXSOoFCX",
+            "track_id": "6tsVFchreYTt2OPXSOoFCX",
+            "name": "25k jacket (feat. Lil Baby)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/fbf3974a71af724c81e7d1e279adc9fab89a44e0?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6tsVFchreYTt2OPXSOoFCX",
+            "collab_count": 13
+        },
+        {
+            "source": "3TVXtAsR1Inumwj472S9r4",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3TVXtAsR1Inumwj472S9r4_5f7VJjfbwm532GiveGC0ZK_6vN77lE9LK6HP2DewaN6HZ",
+            "track_id": "6vN77lE9LK6HP2DewaN6HZ",
+            "name": "Yes Indeed",
+            "popularity": 83,
+            "preview_url": "https://p.scdn.co/mp3-preview/4707ac392292a5eeec89cfd28f9096ebd4574ebc?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ",
+            "collab_count": 3
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "4O15NlyKLIASxsJ0PrXPfz",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_4O15NlyKLIASxsJ0PrXPfz_2bSk87AVkCIIC3Bcligq1z",
+            "track_id": "2bSk87AVkCIIC3Bcligq1z",
+            "name": "Life Goes On",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/f73d72ebb5946a8233f3bc56ca62538bb361ef18?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z",
+            "collab_count": 1
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_2bSk87AVkCIIC3Bcligq1z",
+            "track_id": "2bSk87AVkCIIC3Bcligq1z",
+            "name": "Life Goes On",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/f73d72ebb5946a8233f3bc56ca62538bb361ef18?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z",
+            "collab_count": 13
+        },
+        {
+            "source": "4O15NlyKLIASxsJ0PrXPfz",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "4O15NlyKLIASxsJ0PrXPfz_5f7VJjfbwm532GiveGC0ZK_2bSk87AVkCIIC3Bcligq1z",
+            "track_id": "2bSk87AVkCIIC3Bcligq1z",
+            "name": "Life Goes On",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/f73d72ebb5946a8233f3bc56ca62538bb361ef18?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z",
+            "collab_count": 2
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "50co4Is1HCEo8bhOyUWKpn",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_50co4Is1HCEo8bhOyUWKpn_38844QuZDlnt44uHPrSA3S",
+            "track_id": "38844QuZDlnt44uHPrSA3S",
+            "name": "Oh Okay (feat. Young Thug & Lil Baby)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/81035822706a15c2984715d39f82a33c97b7b862?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S",
+            "collab_count": 1
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_38844QuZDlnt44uHPrSA3S",
+            "track_id": "38844QuZDlnt44uHPrSA3S",
+            "name": "Oh Okay (feat. Young Thug & Lil Baby)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/81035822706a15c2984715d39f82a33c97b7b862?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S",
+            "collab_count": 13
+        },
+        {
+            "source": "50co4Is1HCEo8bhOyUWKpn",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "50co4Is1HCEo8bhOyUWKpn_5f7VJjfbwm532GiveGC0ZK_38844QuZDlnt44uHPrSA3S",
+            "track_id": "38844QuZDlnt44uHPrSA3S",
+            "name": "Oh Okay (feat. Young Thug & Lil Baby)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/81035822706a15c2984715d39f82a33c97b7b862?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S",
+            "collab_count": 3
+        },
+        {
+            "source": "45gHcnDnMC15sgx3VL7ROG",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "45gHcnDnMC15sgx3VL7ROG_5f7VJjfbwm532GiveGC0ZK_01JMnRUs2YOK6DDpdQASGY",
+            "track_id": "01JMnRUs2YOK6DDpdQASGY",
+            "name": "Grace (feat. 42 Dugg)",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/f168c5e85902ebbd9df78d28cbd4485114b6d9d9?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/01JMnRUs2YOK6DDpdQASGY",
+            "collab_count": 4
+        },
+        {
+            "source": "4O15NlyKLIASxsJ0PrXPfz",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "4O15NlyKLIASxsJ0PrXPfz_5f7VJjfbwm532GiveGC0ZK_3tDqEKKUs6gf8zMvSuLyLA",
+            "track_id": "3tDqEKKUs6gf8zMvSuLyLA",
+            "name": "Commercial (feat. Lil Uzi Vert)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/b407a6736e9a50176cab4d28a00dac55b150a406?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA",
+            "collab_count": 2
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_55WLWX71YkHt2tSucNIf1g",
+            "track_id": "55WLWX71YkHt2tSucNIf1g",
+            "name": "Sold Out Dates (feat. Lil Baby)",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/b42e6ff4e40f4c08cf33f3e13d1ecf5d2e8b88ac?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g",
+            "collab_count": 13
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_3F57PtOdqRpD6euFYqtKXX",
+            "track_id": "3F57PtOdqRpD6euFYqtKXX",
+            "name": "I Am (Lil Baby & Gunna)",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/d2bc42af997ff8ff6bc0f90c704d0c6cb132a6f0?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3F57PtOdqRpD6euFYqtKXX",
+            "collab_count": 13
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_61FfbHfk4qT8ZzNA5dqN9j",
+            "track_id": "61FfbHfk4qT8ZzNA5dqN9j",
+            "name": "Finesse Out The Gang Way (feat. Lil Baby)",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/ade8dc4839f16b3889180cfb1ab4a5fcc5da9158?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/61FfbHfk4qT8ZzNA5dqN9j",
+            "collab_count": 19
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_7KSSdFCBHCfq4KPzz78ghk",
+            "track_id": "7KSSdFCBHCfq4KPzz78ghk",
+            "name": "Heatin Up (feat. Gunna)",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/063b7fca047b453217e37d54fe502215874a4db8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk",
+            "collab_count": 13
+        },
+        {
+            "source": "2HUwZ0kumzCSlhFcjFZfpp",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2HUwZ0kumzCSlhFcjFZfpp_5f7VJjfbwm532GiveGC0ZK_14X1WxiHXdVRJ99cMCBzOE",
+            "track_id": "14X1WxiHXdVRJ99cMCBzOE",
+            "name": "How I Move (feat. Lil Baby)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/592e4a17593869130299002677ff7f60a7c3550b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/14X1WxiHXdVRJ99cMCBzOE",
+            "collab_count": 1
+        },
+        {
+            "source": "45TgXXqMDdF8BkjA83OM7z",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "45TgXXqMDdF8BkjA83OM7z_5f7VJjfbwm532GiveGC0ZK_40TPiJpvwGIyvPjJMDTKfy",
+            "track_id": "40TPiJpvwGIyvPjJMDTKfy",
+            "name": "Rags2Riches 2 (feat. Lil Baby)",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/b68d3d710e141983a5f58963d0e42949199b2e7e?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy",
+            "collab_count": 2
+        },
+        {
+            "source": "0QHgL1lAIqAw0HtD7YldmP",
+            "target": "3hcs9uc56yIGFCSy9leWe7",
+            "connection_id": "0QHgL1lAIqAw0HtD7YldmP_3hcs9uc56yIGFCSy9leWe7_1EJIcDYXwSqipW5dFe4uJz",
+            "track_id": "1EJIcDYXwSqipW5dFe4uJz",
+            "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/1751fb43e83267f15296a0f19705e1b419f2de82?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+            "collab_count": 1
+        },
+        {
+            "source": "0QHgL1lAIqAw0HtD7YldmP",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "0QHgL1lAIqAw0HtD7YldmP_5f7VJjfbwm532GiveGC0ZK_1EJIcDYXwSqipW5dFe4uJz",
+            "track_id": "1EJIcDYXwSqipW5dFe4uJz",
+            "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/1751fb43e83267f15296a0f19705e1b419f2de82?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+            "collab_count": 1
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_1EJIcDYXwSqipW5dFe4uJz",
+            "track_id": "1EJIcDYXwSqipW5dFe4uJz",
+            "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/1751fb43e83267f15296a0f19705e1b419f2de82?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+            "collab_count": 19
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "3TVXtAsR1Inumwj472S9r4",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_3TVXtAsR1Inumwj472S9r4_4Qd0pa3JO76UEwhos9JmN0",
+            "track_id": "4Qd0pa3JO76UEwhos9JmN0",
+            "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1f4e7eff0e27584bf13562c787c0b9cc1a681c8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0",
+            "collab_count": 1
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "4r63FhuTkUYltbVAg5TQnk",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_4r63FhuTkUYltbVAg5TQnk_4Qd0pa3JO76UEwhos9JmN0",
+            "track_id": "4Qd0pa3JO76UEwhos9JmN0",
+            "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1f4e7eff0e27584bf13562c787c0b9cc1a681c8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0",
+            "collab_count": 1
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_5f7VJjfbwm532GiveGC0ZK_4Qd0pa3JO76UEwhos9JmN0",
+            "track_id": "4Qd0pa3JO76UEwhos9JmN0",
+            "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1f4e7eff0e27584bf13562c787c0b9cc1a681c8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0",
+            "collab_count": 4
+        },
+        {
+            "source": "3TVXtAsR1Inumwj472S9r4",
+            "target": "4r63FhuTkUYltbVAg5TQnk",
+            "connection_id": "3TVXtAsR1Inumwj472S9r4_4r63FhuTkUYltbVAg5TQnk_4Qd0pa3JO76UEwhos9JmN0",
+            "track_id": "4Qd0pa3JO76UEwhos9JmN0",
+            "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1f4e7eff0e27584bf13562c787c0b9cc1a681c8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0",
+            "collab_count": 1
+        },
+        {
+            "source": "3TVXtAsR1Inumwj472S9r4",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3TVXtAsR1Inumwj472S9r4_5f7VJjfbwm532GiveGC0ZK_4Qd0pa3JO76UEwhos9JmN0",
+            "track_id": "4Qd0pa3JO76UEwhos9JmN0",
+            "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1f4e7eff0e27584bf13562c787c0b9cc1a681c8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0",
+            "collab_count": 3
+        },
+        {
+            "source": "4r63FhuTkUYltbVAg5TQnk",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "4r63FhuTkUYltbVAg5TQnk_5f7VJjfbwm532GiveGC0ZK_4Qd0pa3JO76UEwhos9JmN0",
+            "track_id": "4Qd0pa3JO76UEwhos9JmN0",
+            "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1f4e7eff0e27584bf13562c787c0b9cc1a681c8?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0",
+            "collab_count": 1
+        },
+        {
+            "source": "0VRj0yCOv2FXJNP47XQnx5",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "0VRj0yCOv2FXJNP47XQnx5_5f7VJjfbwm532GiveGC0ZK_69PkhA9q3xCWU2CzoZnLAu",
+            "track_id": "69PkhA9q3xCWU2CzoZnLAu",
+            "name": "LOSE IT (feat. Lil Baby)",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/72ec54d4a9e52c9c4443fe270d54c90c4caf1bf1?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/69PkhA9q3xCWU2CzoZnLAu",
+            "collab_count": 1
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "45gHcnDnMC15sgx3VL7ROG",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_45gHcnDnMC15sgx3VL7ROG_3gOL6mYIq19Oq8raxIntrV",
+            "track_id": "3gOL6mYIq19Oq8raxIntrV",
+            "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed6276842200284b55466deac1bd01a3a1b33bda?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV",
+            "collab_count": 1
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_5f7VJjfbwm532GiveGC0ZK_3gOL6mYIq19Oq8raxIntrV",
+            "track_id": "3gOL6mYIq19Oq8raxIntrV",
+            "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed6276842200284b55466deac1bd01a3a1b33bda?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV",
+            "collab_count": 4
+        },
+        {
+            "source": "45gHcnDnMC15sgx3VL7ROG",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "45gHcnDnMC15sgx3VL7ROG_5f7VJjfbwm532GiveGC0ZK_3gOL6mYIq19Oq8raxIntrV",
+            "track_id": "3gOL6mYIq19Oq8raxIntrV",
+            "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed6276842200284b55466deac1bd01a3a1b33bda?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV",
+            "collab_count": 4
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_3zWR0zS9p39c0FVkYkHfVF",
+            "track_id": "3zWR0zS9p39c0FVkYkHfVF",
+            "name": "Please",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/366e5422022ef6578d7ff2bca921b504dbafedb5?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3zWR0zS9p39c0FVkYkHfVF",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_5LtzwqIWPXKEYfVcaY3bjc",
+            "track_id": "5LtzwqIWPXKEYfVcaY3bjc",
+            "name": "Lying",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d60bbe3f6bef24f60cb02c6c10536e7ab3887df?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5LtzwqIWPXKEYfVcaY3bjc",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_5BCzsnN4U4OvOegjErHTUF",
+            "track_id": "5BCzsnN4U4OvOegjErHTUF",
+            "name": "Medical",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/01423a60974a103a1b68098ef3bea47ee7f0df16?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5BCzsnN4U4OvOegjErHTUF",
+            "collab_count": 19
+        },
+        {
+            "source": "3uJx5SnOM59Li7lCxA3b29",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3uJx5SnOM59Li7lCxA3b29_5f7VJjfbwm532GiveGC0ZK_6O04OXXHeOVMbbIIoUBoXR",
+            "track_id": "6O04OXXHeOVMbbIIoUBoXR",
+            "name": "She Know (feat. Lil Baby)",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/bbdae0b093723c08a753db465377c49884e6cd16?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6O04OXXHeOVMbbIIoUBoXR",
+            "collab_count": 1
+        },
+        {
+            "source": "4SjND9kT6Ja5TSPZTyUUab",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "4SjND9kT6Ja5TSPZTyUUab_5f7VJjfbwm532GiveGC0ZK_1zIb1bYJAo1UdR2Xf4oESb",
+            "track_id": "1zIb1bYJAo1UdR2Xf4oESb",
+            "name": "Exotic",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/225ba204c85ae323579c47e984c52c7eb1eeaa08?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1zIb1bYJAo1UdR2Xf4oESb",
+            "collab_count": 1
+        },
+        {
+            "source": "0B3kMiB21aPQlKumGDr4c7",
+            "target": "45gHcnDnMC15sgx3VL7ROG",
+            "connection_id": "0B3kMiB21aPQlKumGDr4c7_45gHcnDnMC15sgx3VL7ROG_0b7UwotRCrS7qBoLDjfvSY",
+            "track_id": "0b7UwotRCrS7qBoLDjfvSY",
+            "name": "U-Digg (feat. 42 Dugg & Veeze)",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/77140be3a850ec93643a60095c6b90875468d398?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY",
+            "collab_count": 1
+        },
+        {
+            "source": "0B3kMiB21aPQlKumGDr4c7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "0B3kMiB21aPQlKumGDr4c7_5f7VJjfbwm532GiveGC0ZK_0b7UwotRCrS7qBoLDjfvSY",
+            "track_id": "0b7UwotRCrS7qBoLDjfvSY",
+            "name": "U-Digg (feat. 42 Dugg & Veeze)",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/77140be3a850ec93643a60095c6b90875468d398?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY",
+            "collab_count": 1
+        },
+        {
+            "source": "45gHcnDnMC15sgx3VL7ROG",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "45gHcnDnMC15sgx3VL7ROG_5f7VJjfbwm532GiveGC0ZK_0b7UwotRCrS7qBoLDjfvSY",
+            "track_id": "0b7UwotRCrS7qBoLDjfvSY",
+            "name": "U-Digg (feat. 42 Dugg & Veeze)",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/77140be3a850ec93643a60095c6b90875468d398?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY",
+            "collab_count": 4
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "1fctva4kpRbg2k3v7kwRuS",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_1fctva4kpRbg2k3v7kwRuS_4rmXVKUSU0PIblRyYFZHHi",
+            "track_id": "4rmXVKUSU0PIblRyYFZHHi",
+            "name": "M&M (with Future feat. Lil Baby)",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3afdf81366bbac34972eae9b72d766aacf2915d?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi",
+            "collab_count": 1
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_5f7VJjfbwm532GiveGC0ZK_4rmXVKUSU0PIblRyYFZHHi",
+            "track_id": "4rmXVKUSU0PIblRyYFZHHi",
+            "name": "M&M (with Future feat. Lil Baby)",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3afdf81366bbac34972eae9b72d766aacf2915d?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi",
+            "collab_count": 4
+        },
+        {
+            "source": "1fctva4kpRbg2k3v7kwRuS",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1fctva4kpRbg2k3v7kwRuS_5f7VJjfbwm532GiveGC0ZK_4rmXVKUSU0PIblRyYFZHHi",
+            "track_id": "4rmXVKUSU0PIblRyYFZHHi",
+            "name": "M&M (with Future feat. Lil Baby)",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3afdf81366bbac34972eae9b72d766aacf2915d?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi",
+            "collab_count": 1
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_1jeGQJsJHwaeRhfoQ2BvMB",
+            "track_id": "1jeGQJsJHwaeRhfoQ2BvMB",
+            "name": "Our Year",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/fcc0b5cb56ce5480b9d2a15f10aee314291fedef?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1jeGQJsJHwaeRhfoQ2BvMB",
+            "collab_count": 13
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_7roKDmJDOzkpfGpUQJ5EnL",
+            "track_id": "7roKDmJDOzkpfGpUQJ5EnL",
+            "name": "Business Is Business (Lil Baby & Gunna)",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/7394b5cc7f06439229fc54da51d9796c83c91b05?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7roKDmJDOzkpfGpUQJ5EnL",
+            "collab_count": 13
+        },
+        {
+            "source": "0gg11prPP6OqtUvBcKnPpq",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "0gg11prPP6OqtUvBcKnPpq_5f7VJjfbwm532GiveGC0ZK_7wxl36fAGU3Afv87ZblUwg",
+            "track_id": "7wxl36fAGU3Afv87ZblUwg",
+            "name": "Forget That (feat. Rylo Rodriguez)",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/264a0e5eb9f0b4ba12752a511dcf61b0268c0d36?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7wxl36fAGU3Afv87ZblUwg",
+            "collab_count": 2
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_2Z9wPJaKys1LAOlcBtjvOU",
+            "track_id": "2Z9wPJaKys1LAOlcBtjvOU",
+            "name": "Throwing Shade",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/7fe0031619002fc6ed25d9610520f23aeb33976d?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2Z9wPJaKys1LAOlcBtjvOU",
+            "collab_count": 13
+        },
+        {
+            "source": "4FlG0V0jhLO4qGpayFOphj",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "4FlG0V0jhLO4qGpayFOphj_5f7VJjfbwm532GiveGC0ZK_7eX3um6NpOQKWJMGCi97XD",
+            "track_id": "7eX3um6NpOQKWJMGCi97XD",
+            "name": "Real As It Gets (feat. EST Gee)",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0fe9b78967779dc6a651103859140b92b59cf94?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD",
+            "collab_count": 1
+        },
+        {
+            "source": "5f7VJjfbwm532GiveGC0ZK",
+            "target": "6Xgp2XMz1fhVYe7i6yNAax",
+            "connection_id": "5f7VJjfbwm532GiveGC0ZK_6Xgp2XMz1fhVYe7i6yNAax_1uOkLTBD5wTA36qK32SfsK",
+            "track_id": "1uOkLTBD5wTA36qK32SfsK",
+            "name": "DARK BROTHERHOOD (feat. Lil Baby)",
+            "popularity": 2,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/1uOkLTBD5wTA36qK32SfsK",
+            "collab_count": 1
+        },
+        {
+            "source": "50co4Is1HCEo8bhOyUWKpn",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "50co4Is1HCEo8bhOyUWKpn_5f7VJjfbwm532GiveGC0ZK_1Py8c3dkLF0YczcAyBFBEM",
+            "track_id": "1Py8c3dkLF0YczcAyBFBEM",
+            "name": "Never Hating (feat. Young Thug)",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa0d134f053d465f236888d47ad077d1f9ef472d?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM",
+            "collab_count": 3
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_02mYw61RoS1vXvkD9Q5dpN",
+            "track_id": "02mYw61RoS1vXvkD9Q5dpN",
+            "name": "BLINDFOLD (feat. Lil Baby)",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/7000cd88979315c7d3bff19d7f8908df253a7daf?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN",
+            "collab_count": 13
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_5f7VJjfbwm532GiveGC0ZK_6Tguhaf2uAe6OjRLsR2Tql",
+            "track_id": "6Tguhaf2uAe6OjRLsR2Tql",
+            "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a594b2122a56a79fdfd7d965c2e29f4ce15b25b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql",
+            "collab_count": 19
+        },
+        {
+            "source": "3hcs9uc56yIGFCSy9leWe7",
+            "target": "6AgTAQt8XS6jRWi4sX7w49",
+            "connection_id": "3hcs9uc56yIGFCSy9leWe7_6AgTAQt8XS6jRWi4sX7w49_6Tguhaf2uAe6OjRLsR2Tql",
+            "track_id": "6Tguhaf2uAe6OjRLsR2Tql",
+            "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a594b2122a56a79fdfd7d965c2e29f4ce15b25b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql",
+            "collab_count": 1
+        },
+        {
+            "source": "5f7VJjfbwm532GiveGC0ZK",
+            "target": "6AgTAQt8XS6jRWi4sX7w49",
+            "connection_id": "5f7VJjfbwm532GiveGC0ZK_6AgTAQt8XS6jRWi4sX7w49_6Tguhaf2uAe6OjRLsR2Tql",
+            "track_id": "6Tguhaf2uAe6OjRLsR2Tql",
+            "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a594b2122a56a79fdfd7d965c2e29f4ce15b25b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql",
+            "collab_count": 1
+        },
+        {
+            "source": "3tJoFztHeIJkJWMrx0td2f",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "3tJoFztHeIJkJWMrx0td2f_5f7VJjfbwm532GiveGC0ZK_6A9wHAasMxed0firnDao1K",
+            "track_id": "6A9wHAasMxed0firnDao1K",
+            "name": "No Sucker (feat. Moneybagg Yo)",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/704eef0b0a1170f998d5c1fe58bd2f26d9c3985c?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K",
+            "collab_count": 1
+        },
+        {
+            "source": "13y7CgLHjMVRMDqxdx0Xdo",
+            "target": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+            "connection_id": "13y7CgLHjMVRMDqxdx0Xdo_4DdkRBBYG6Yk9Ka8tdJ9BW_2WqTKOAUmv7hz9ZzGnXHrY",
+            "track_id": "2WqTKOAUmv7hz9ZzGnXHrY",
+            "name": "Realist In It (feat. Gucci Mane & Offset)",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab2a5e875e299b8cc23f979711869dad212ce681?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2WqTKOAUmv7hz9ZzGnXHrY",
+            "collab_count": 1
+        },
+        {
+            "source": "13y7CgLHjMVRMDqxdx0Xdo",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "13y7CgLHjMVRMDqxdx0Xdo_5f7VJjfbwm532GiveGC0ZK_2WqTKOAUmv7hz9ZzGnXHrY",
+            "track_id": "2WqTKOAUmv7hz9ZzGnXHrY",
+            "name": "Realist In It (feat. Gucci Mane & Offset)",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab2a5e875e299b8cc23f979711869dad212ce681?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2WqTKOAUmv7hz9ZzGnXHrY",
+            "collab_count": 1
+        },
+        {
+            "source": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "4DdkRBBYG6Yk9Ka8tdJ9BW_5f7VJjfbwm532GiveGC0ZK_2WqTKOAUmv7hz9ZzGnXHrY",
+            "track_id": "2WqTKOAUmv7hz9ZzGnXHrY",
+            "name": "Realist In It (feat. Gucci Mane & Offset)",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab2a5e875e299b8cc23f979711869dad212ce681?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2WqTKOAUmv7hz9ZzGnXHrY",
+            "collab_count": 1
+        },
+        {
+            "source": "2hlmm7s2ICUX0LVIhVFlZQ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "2hlmm7s2ICUX0LVIhVFlZQ_5f7VJjfbwm532GiveGC0ZK_78QR3Wp35dqAhFEc2qAGjE",
+            "track_id": "78QR3Wp35dqAhFEc2qAGjE",
+            "name": "Drip Too Hard (Lil Baby & Gunna)",
+            "popularity": 85,
+            "preview_url": "https://p.scdn.co/mp3-preview/613d9fe82d39123b5f37cfcbc9e3c22431fd3c8a?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE",
+            "collab_count": 13
+        },
+        {
+            "source": "5f7VJjfbwm532GiveGC0ZK",
+            "target": "7FOQfJbC3e4GNoheojERnF",
+            "connection_id": "5f7VJjfbwm532GiveGC0ZK_7FOQfJbC3e4GNoheojERnF_3HD2dcCVCMIUgq3ZiSExpD",
+            "track_id": "3HD2dcCVCMIUgq3ZiSExpD",
+            "name": "Sleazy Flow (feat. Lil Baby) - Remix",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/25b5a35892b295ee1401cb9a1d4077d6b61db5c9?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3HD2dcCVCMIUgq3ZiSExpD",
+            "collab_count": 1
+        },
+        {
+            "source": "0Njy6yR9LykNKYg9yE23QN",
+            "target": "1RyvyyTE3xzB2ZywiAwp0i",
+            "connection_id": "0Njy6yR9LykNKYg9yE23QN_1RyvyyTE3xzB2ZywiAwp0i_2HHLfzE7PkljuqyYU4vwmh",
+            "track_id": "2HHLfzE7PkljuqyYU4vwmh",
+            "name": "Me or Sum (feat. Future & Lil Baby)",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ac9be6acdf2ba4bdb91c5fb2409ea05faa316c2?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh",
+            "collab_count": 1
+        },
+        {
+            "source": "0Njy6yR9LykNKYg9yE23QN",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "0Njy6yR9LykNKYg9yE23QN_5f7VJjfbwm532GiveGC0ZK_2HHLfzE7PkljuqyYU4vwmh",
+            "track_id": "2HHLfzE7PkljuqyYU4vwmh",
+            "name": "Me or Sum (feat. Future & Lil Baby)",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ac9be6acdf2ba4bdb91c5fb2409ea05faa316c2?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh",
+            "collab_count": 1
+        },
+        {
+            "source": "1RyvyyTE3xzB2ZywiAwp0i",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1RyvyyTE3xzB2ZywiAwp0i_5f7VJjfbwm532GiveGC0ZK_2HHLfzE7PkljuqyYU4vwmh",
+            "track_id": "2HHLfzE7PkljuqyYU4vwmh",
+            "name": "Me or Sum (feat. Future & Lil Baby)",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ac9be6acdf2ba4bdb91c5fb2409ea05faa316c2?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh",
+            "collab_count": 4
+        },
+        {
+            "source": "1jBoSSrbz9n4ehQWA4cZgB",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1jBoSSrbz9n4ehQWA4cZgB_5f7VJjfbwm532GiveGC0ZK_0tedTyVPg2zlvcBRkLa4Ab",
+            "track_id": "0tedTyVPg2zlvcBRkLa4Ab",
+            "name": "Vulture Island V2",
+            "popularity": 9,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/0tedTyVPg2zlvcBRkLa4Ab",
+            "collab_count": 1
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethereal Network</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/graph.css') }}">
+
+
+
+
+</head>
+<body>
+    <div class="container">
+        <div class="header"> 
+          <div class="title1">Feature Network</div>
+        </div>
+        <div class="title2">Select An Artist From the List To Visualize Their Feature Network</div>
+
+        <div class="playlists">
+
+        </div>
+        <div class="title2">Or, enter your own playlist to visualize</div>
+        <!--
+        <div class="nodes-view" id="nodes-view">
+            <div class="modal-content">
+              <div class="modal-header">
+                <span class="close-button">&times;</span>
+                <h2 class="artist-name">Node Information</h2>
+              </div>
+              <div class="modal-body">
+                <div class="node-info">
+                  <div class="node-name"></div>
+                  <div class="node-type"></div>
+                  <div class="node-features"></div>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <h3>Modal Footer</h3>
+              </div>
+            </div>
+        </div>
+        -->
+
+      <div class="graph" id="my_dataviz">
+        
+      </div>
+      <div class="links-view">
+        <div class="modal">
+          <div class="modal-content">
+            <div class="modal-left">
+                <img class="modal-img" src="" alt="artistpic">
+                <h1 class="modal-title">ArtistName</h1>
+                <h4 class="modal-subtitle">Subtitle</h4>
+                <iframe class="modal-preview" src="" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+            </div>
+            <div class="modal-right">
+                <h4 class="modal-track">Track1</h4>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      
+      
+      
+    </div>
+
+
+    
+</body>
+<!-- scripts -->
+<script src="https://d3js.org/d3.v6.js"></script>
+
+<script src="{{ url_for('static', filename='js/graph.js') }}"></script>
+<script src="{{ url_for('static', filename='js/modalController.js') }}"></script>
+<script src="{{ url_for('static', filename='js/choosePlaylist.js') }}"></script>
+
+</html>

@@ -1,0 +1,165 @@
+{
+  "artists": [
+    {
+      "name": "drake",
+      "aName": "Drake",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "pl_id": "spotify:playlist:0xusFOostuuUb0esNzTbbO"
+    },
+    {
+      "name": "theweeknd",
+      "aName": "The Weeknd",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
+      "pl_id": "spotify:playlist:5rvdoCYVmptoBUqS6TDKNQ"
+    },
+    {
+      "name": "kdot",
+      "aName": "Kendrick Lamar",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+      "pl_id": "spotify:playlist:7eeZRtQIPe3mBgWWgvAEeN"
+    },
+    {
+      "name": "lilwayne",
+      "aName": "Lil Wayne",
+      "id": "55Aa2cqylxrFIXC767Z865",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5ebc1c08e541eae3cc82c6988c4",
+      "pl_id": "spotify:playlist:5z4CU5tS0uB5gG7KyCL5JZ"
+    },
+    {
+      "name": "nickiminaj",
+      "aName": "Nicki Minaj",
+      "id": "0hCNtLu0JehylgoiP8L4Gh",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20",
+      "pl_id": "spotify:playlist:5AlNuqS0lSDFmU1oS60klW"
+    },
+    {
+      "name": "future",
+      "aName": "Future",
+      "id": "1RyvyyTE3xzB2ZywiAwp0i",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb24e41f491b129093a6fee383",
+      "pl_id": "spotify:playlist:3TnojI5pv8nedMq3V1VXEU"
+    },
+    {
+      "name": "rihanna",
+      "aName": "Rihanna",
+      "id": "5pKCCKE2ajJHZ9KAiaK11H",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789",
+      "pl_id": "spotify:playlist:0D1N6bOB19DKfPTYsfAFnv"
+    },
+    {
+      "name": "taylorswift",
+      "aName": "Taylor Swift",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+      "pl_id": "spotify:playlist:3kkXmHc0jVzxGLejHyvlcN"
+    },
+    {
+      "name": "justinbieber",
+      "aName": "Justin Bieber",
+      "id": "1uNFoZAHBGtllmzznpCI3s",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36",
+      "pl_id": "spotify:playlist:4eHNTlsildXyxn2BCAIYF0"
+    },
+    {
+      "name": "cardib",
+      "aName": "Cardi B",
+      "id": "4kYSro6naA4h99UJvo89HB",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805",
+      "pl_id": "spotify:playlist:1QxWwINGoMIys03MKC92Ru"
+    },
+    {
+      "name": "metroboomin",
+      "aName": "Metro Boomin",
+      "id": "0iEtIxbK0KxaSlF7G42ZOp",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c",
+      "pl_id": "spotify:playlist:3qEk1ob5H8AxIOcDk0rhPq"
+    },
+    {
+      "name": "youngthug",
+      "aName": "Young Thug",
+      "id": "50co4Is1HCEo8bhOyUWKpn",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed",
+      "pl_id": "spotify:playlist:31w5gjYLISxhIhvQCafN6h"
+    },
+    {
+      "name": "lilbaby",
+      "aName": "Lil Baby",
+      "id": "5f7VJjfbwm532GiveGC0ZK",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb6cad3eff5adc29e20f189a6c",
+      "pl_id": "spotify:playlist:4pD7NrK5SsoMWiQ08f3M65"
+    },
+    {
+      "name": "gunna",
+      "aName": "Gunna",
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb6501f8a7d50c56e86e46f920",
+      "pl_id": "spotify:playlist:1A7gd8Yrfpuw5C6VHQmOA3"
+    },
+    {
+      "name": "dontoliver",
+      "aName": "Don Toliver",
+      "id": "4Gso3d4CscCijv0lmajZWs",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5ebeb63bf6379a9ea8453a30020",
+      "pl_id": "spotify:playlist:3nsOZsBg0Wahy2iQuS6Hz4"
+    },
+    {
+      "name": "juice wrld",
+      "aName": "Juice WRLD",
+      "id": "4MCBfE4596Uoi2O4DtmEMz",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb1908e1a8b79abf71d5598944",
+      "pl_id": "spotify:playlist:0xusFOostuuUb0esNzTbbO"
+    },
+    {
+      "name": "kidlaroi",
+      "aName": "The Kid LAROI",
+      "id": "2tIP7SsRs7vjIcLrU85W8J",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb393666951ab8b14e9c4ed386",
+      "pl_id": "spotify:playlist:0xusFOostuuUb0esNzTbbO"
+    },
+    {
+      "name": "wizkhalifa",
+      "aName": "Wiz Khalifa",
+      "id": "137W8MRPWKqSmrBGDBFSop",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb4bdf6db5203f2a0e44002620",
+      "pl_id": "spotify:playlist:0xusFOostuuUb0esNzTbbO"
+    },
+    {
+      "name": "snoopdogg",
+      "aName": "Snoop Dogg",
+      "id": "7hJcb9fa4alzcOq3EaNPoG",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4",
+      "pl_id": "spotify:playlist:0xusFOostuuUb0esNzTbbO"
+    },
+    {
+      "name": "brentfaiyaz",
+      "aName": "Brent Faiyaz",
+      "id": "3tlXnStJ1fFhdScmQeLpuG",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5ebe187dca750abfd3688836309",
+      "pl_id": "spotify:playlist:0xusFOostuuUb0esNzTbbO"
+    },
+    {
+      "name": "popsmoke",
+      "aName": "Pop Smoke",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09",
+      "pl_id": "spotify:playlist:0xusFOostuuUb0esNzTbbO"
+    },
+    {
+      "name": "ye",
+      "aName": "Kanye West",
+      "id": "5K4W6rqBFWDnAN6FQUkS6x",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a",
+      "pl_id": "spotify:playlist:7orczKKXJdOUwt1UroSZza"
+    },
+    {
+      "name": "travisscott",
+      "aName": "Travis Scott",
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "imgUrl": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "pl_id": "spotify:playlist:0e0Z8jHV146ov5YQB4pnqj"
+    }
+  ]
+}

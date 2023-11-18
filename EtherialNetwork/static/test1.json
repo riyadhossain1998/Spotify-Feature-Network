@@ -1,0 +1,949 @@
+{
+    "nodes": [
+        {
+            "name": "Belly",
+            "artist_id": "0FOWNUFHPnMy0vOw1siGqi",
+            "popularity": 64,
+            "followers": 234059,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb2357b798cc2ff630c6f2c898",
+            "profile_url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi",
+            "genres": [
+                "canadian hip hop",
+                "canadian trap",
+                "pop rap",
+                "rap",
+                "trap",
+                "trap soul"
+            ],
+            "tracklist": [
+                "3JvdrCezbM6DQOjNiBiX5q",
+                "3zs87EV3EZSh2UpiXxT52Y"
+            ]
+        },
+        {
+            "name": "A$AP Rocky",
+            "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+            "popularity": 84,
+            "followers": 11935043,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebee452efcf24aa4124fb28d94",
+            "profile_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+            "genres": [
+                "east coast hip hop",
+                "hip hop",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "7F1LWA9sIlTorHUo4amGqk"
+            ]
+        },
+        {
+            "name": "Kendrick Lamar",
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "popularity": 91,
+            "followers": 23140946,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+            "profile_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+            "genres": [
+                "conscious hip hop",
+                "hip hop",
+                "rap",
+                "west coast rap"
+            ],
+            "tracklist": [
+                "77UjLW8j5UAGAGVGhR5oUK"
+            ]
+        },
+        {
+            "name": "Doja Cat",
+            "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+            "popularity": 89,
+            "followers": 24647804,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba",
+            "profile_url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "tracklist": [
+                "0IakguBBeTUsAILmugkEam"
+            ]
+        },
+        {
+            "name": "Young Thug",
+            "artist_id": "50co4Is1HCEo8bhOyUWKpn",
+            "popularity": 87,
+            "followers": 8023979,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed",
+            "profile_url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn",
+            "genres": [
+                "atl hip hop",
+                "atl trap",
+                "gangster rap",
+                "hip hop",
+                "melodic rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "tracklist": [
+                "7F1LWA9sIlTorHUo4amGqk",
+                "3zs87EV3EZSh2UpiXxT52Y"
+            ]
+        },
+        {
+            "name": "The Weeknd",
+            "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "popularity": 99,
+            "followers": 60049452,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379",
+            "profile_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
+            "genres": [
+                "canadian contemporary r&b",
+                "canadian pop",
+                "pop"
+            ],
+            "tracklist": [
+                "2wDAD2hRCw8qanm6UjdLpx",
+                "14mgSrrQRN8K9HaVHhKjze",
+                "2wDAD2hRCw8qanm6UjdLpx",
+                "6lrHwWBbbkFjdOWk16Et4I",
+                "6lrHwWBbbkFjdOWk16Et4I",
+                "3sqBs5ksVAm4dJuNiCulzQ",
+                "6H8j8dfwnqQgOPkBafWwhS",
+                "2uyfDWTgK8nK0e19Xnjcfb",
+                "6H8j8dfwnqQgOPkBafWwhS",
+                "7F1LWA9sIlTorHUo4amGqk",
+                "5hzey1kBGjy3B8tDGcyRTY",
+                "2PIvq1pGrUjY007X5y1UpM",
+                "5idmfDT06TjCQ1SPDsa5qh",
+                "23zykvOc3kJKObhUMC64EV",
+                "7o3Mcis1uKcYDuuJD1W0Rm",
+                "77UjLW8j5UAGAGVGhR5oUK",
+                "0GzuHFG4Ql6DoyxFRnIk3F",
+                "3JvdrCezbM6DQOjNiBiX5q",
+                "2gpWyfu7eZ01zzncHpxOtA",
+                "44I7sqKYCAa7bQdVywkShO",
+                "6OGogr19zPTM4BALXuMQpF",
+                "6M3PsepEj5gyJoIi7Xvr7u",
+                "3V8wDzLWWl1O1Hdldf3TsF",
+                "23FnV9ThaK01oNWc3E87yh",
+                "3zs87EV3EZSh2UpiXxT52Y",
+                "0IakguBBeTUsAILmugkEam",
+                "6krYS8KtmNAYyb5uTZiYW4",
+                "3KyKxJ4P3pVCgaZwaq2rUC",
+                "2Ghp894n1laIf2w98VeAOJ",
+                "2vgUijXOTRMnWXDtvgMp2b",
+                "1nH2PkJL1XoUq8oE6tBZoU",
+                "759ndr57jb0URg4j9YSWml",
+                "2SLwbpExuoBDZBpjfefCtV",
+                "1NhjYYcYTRywc0di98xHxf",
+                "1E5Xu8dur0fAjSP1VpVhAZ",
+                "0mL82sxCRjrs3br407IdJh",
+                "6zzdyvVWjGrQBraSvuqJPY",
+                "3vJcz8exedHCjQ9ed95NqU",
+                "6a4GH1gljLL7VvmO9u5O92",
+                "5XbA7TAqsD0fj0dGBrbb0D",
+                "2D4dV2KXDTszzJ3p3cFqhA",
+                "1NlK2NtpuUazpziLhnJwEV",
+                "5ciyqWW5YuGqF4Avu7uwry",
+                "38uNCW1do0LKfMIt4MDkPo",
+                "6rhbL6MhAej39S8KupwjrC",
+                "5JpSjNcjuP8L9QrYmv3xcn",
+                "6eJbjaoLRlfwrfWpeS6alF",
+                "0l1p13Fbujayv894H0hfpS",
+                "53qYItjefG5SUf62428dIw",
+                "5SF1kcOiOmtZFUIQNGC4TC",
+                "2yYDijitHN6psA2tH0ndXs",
+                "7xgYvziLsxNd0UznaEw8Oi",
+                "4dXnS1YXBkn4oAIxRLPJcK",
+                "5JQ5Acrgv1VrO9UtMUN052",
+                "4Rrj1QxDqsj28gv9SiHQRA",
+                "5wyFsVGDdrOZM0nf2D4p8f",
+                "6TZFNPSXXXBakzy5oUDQhc",
+                "6oYRgLK4B38yYy9TeTpMjn",
+                "5LvK8z69OPlVaOWU6JHfRJ",
+                "1lzRZsQ6w0mg8xcGxmzWzx",
+                "6RlLT2inT5c5VahF22SAyj",
+                "36aoiqTQcBGDb7bAO3n5XO",
+                "5QTvQN2CpylSgb9rLoYjYQ",
+                "1DQGIcihPgi4kDCdx1fEn0",
+                "3YZmW6AUHsbN7KhOTd944i",
+                "7oDd86yk8itslrA9HRP2ki",
+                "1DzJbVkBELu6jDu6q0T0tk"
+            ]
+        },
+        {
+            "name": "Tyler, The Creator",
+            "artist_id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "popularity": 87,
+            "followers": 10612174,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb8278b782cbb5a3963db88ada",
+            "profile_url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF",
+            "genres": [
+                "hip hop",
+                "rap"
+            ],
+            "tracklist": [
+                "1NhjYYcYTRywc0di98xHxf"
+            ]
+        },
+        {
+            "name": "Kanye West",
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "popularity": 93,
+            "followers": 19466505,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a",
+            "profile_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+            "genres": [
+                "chicago rap",
+                "rap"
+            ],
+            "tracklist": [
+                "44I7sqKYCAa7bQdVywkShO"
+            ]
+        },
+        {
+            "name": "Lana Del Rey",
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "popularity": 92,
+            "followers": 21525554,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+            "profile_url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+            "genres": [
+                "art pop",
+                "pop"
+            ],
+            "tracklist": [
+                "5hzey1kBGjy3B8tDGcyRTY"
+            ]
+        },
+        {
+            "name": "KAYTRANADA",
+            "artist_id": "6qgnBH6iDM91ipVXv28OMu",
+            "popularity": 71,
+            "followers": 1146006,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebca674f416a581a1b19f8150a",
+            "profile_url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu",
+            "genres": [
+                "escape room",
+                "lgbtq+ hip hop"
+            ],
+            "tracklist": [
+                "4Rrj1QxDqsj28gv9SiHQRA",
+                "5wyFsVGDdrOZM0nf2D4p8f",
+                "36aoiqTQcBGDb7bAO3n5XO"
+            ]
+        },
+        {
+            "name": "Salvatore Ganacci",
+            "artist_id": "5PdkRVDASsw6P7QoqRpz0F",
+            "popularity": 61,
+            "followers": 159989,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb1db8bcce24a6b88044fdb460",
+            "profile_url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F",
+            "genres": [
+                "basshall",
+                "moombahton"
+            ],
+            "tracklist": [
+                "1DQGIcihPgi4kDCdx1fEn0"
+            ]
+        },
+        {
+            "name": "Lil Uzi Vert",
+            "artist_id": "4O15NlyKLIASxsJ0PrXPfz",
+            "popularity": 90,
+            "followers": 14687232,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb30122c0d3ead72f96bb5ee93",
+            "profile_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+            "genres": [
+                "melodic rap",
+                "philly rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "3sqBs5ksVAm4dJuNiCulzQ"
+            ]
+        },
+        {
+            "name": "Lil Wayne",
+            "artist_id": "55Aa2cqylxrFIXC767Z865",
+            "popularity": 88,
+            "followers": 13222215,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebc63aded6f4bf4d06d1377106",
+            "profile_url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865",
+            "genres": [
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "5XbA7TAqsD0fj0dGBrbb0D"
+            ]
+        },
+        {
+            "name": "Nas",
+            "artist_id": "20qISvAhX20dpIbOOzGK3q",
+            "popularity": 77,
+            "followers": 3188465,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebf7d9deb32a290a5ba574ee1c",
+            "profile_url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q",
+            "genres": [
+                "conscious hip hop",
+                "east coast hip hop",
+                "gangster rap",
+                "hardcore hip hop",
+                "hip hop",
+                "queens hip hop",
+                "rap"
+            ],
+            "tracklist": [
+                "3JvdrCezbM6DQOjNiBiX5q"
+            ]
+        },
+        {
+            "name": "Ariana Grande",
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "popularity": 92,
+            "followers": 88406524,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+            "profile_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
+            "genres": [
+                "dance pop",
+                "pop"
+            ],
+            "tracklist": [
+                "7oDd86yk8itslrA9HRP2ki"
+            ]
+        },
+        {
+            "name": "DaHeala",
+            "artist_id": "6yP3ZB6Fy3U4IBlHjcLS4Q",
+            "popularity": 30,
+            "followers": 439,
+            "img_url": "https://www.seekpng.com/ima/u2w7w7y3i1o0a9o0/",
+            "profile_url": "https://open.spotify.com/artist/6yP3ZB6Fy3U4IBlHjcLS4Q",
+            "genres": [],
+            "tracklist": [
+                "3sqBs5ksVAm4dJuNiCulzQ"
+            ]
+        },
+        {
+            "name": "Sebastian Ingrosso",
+            "artist_id": "6hyMWrxGBsOx6sWcVj1DqP",
+            "popularity": 64,
+            "followers": 952822,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb0ddf983126c8dadd64163664",
+            "profile_url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP",
+            "genres": [
+                "edm",
+                "electro house",
+                "pop dance",
+                "progressive electro house",
+                "progressive house"
+            ],
+            "tracklist": [
+                "1DQGIcihPgi4kDCdx1fEn0"
+            ]
+        },
+        {
+            "name": "Swedish House Mafia",
+            "artist_id": "1h6Cn3P4NGzXbaXidqURXs",
+            "popularity": 78,
+            "followers": 3666220,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb0c05adcae61ac479afe35c8e",
+            "profile_url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs",
+            "genres": [
+                "dance pop",
+                "edm",
+                "electro house",
+                "pop",
+                "pop dance",
+                "progressive electro house"
+            ],
+            "tracklist": [
+                "2gpWyfu7eZ01zzncHpxOtA",
+                "1lzRZsQ6w0mg8xcGxmzWzx",
+                "6RlLT2inT5c5VahF22SAyj"
+            ]
+        },
+        {
+            "name": "The Blaze",
+            "artist_id": "1Dt1UKLtrJIW1xxRBejjos",
+            "popularity": 66,
+            "followers": 445795,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebc47d7909754b4c16982e5626",
+            "profile_url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos",
+            "genres": [
+                "new french touch"
+            ],
+            "tracklist": [
+                "6H8j8dfwnqQgOPkBafWwhS",
+                "6H8j8dfwnqQgOPkBafWwhS"
+            ]
+        },
+        {
+            "name": "Drake",
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "popularity": 98,
+            "followers": 72599534,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+            "profile_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+            "genres": [
+                "canadian hip hop",
+                "canadian pop",
+                "hip hop",
+                "rap",
+                "toronto rap"
+            ],
+            "tracklist": [
+                "53qYItjefG5SUf62428dIw"
+            ]
+        },
+        {
+            "name": "Maluma",
+            "artist_id": "1r4hJ1h58CWwUQe3MxPuau",
+            "popularity": 86,
+            "followers": 33346165,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb686445512e505b2f74a67885",
+            "profile_url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
+            "genres": [
+                "reggaeton",
+                "reggaeton colombiano",
+                "urbano latino"
+            ],
+            "tracklist": [
+                "0GzuHFG4Ql6DoyxFRnIk3F"
+            ]
+        },
+        {
+            "name": "Summer Walker",
+            "artist_id": "57LYzLEk2LcFghVwuWbcuS",
+            "popularity": 82,
+            "followers": 4723923,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb4714179bf23941c0aec4b474",
+            "profile_url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS",
+            "genres": [
+                "pop",
+                "r&b",
+                "rap"
+            ],
+            "tracklist": [
+                "3YZmW6AUHsbN7KhOTd944i"
+            ]
+        },
+        {
+            "name": "Lil Baby",
+            "artist_id": "5f7VJjfbwm532GiveGC0ZK",
+            "popularity": 91,
+            "followers": 13267829,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb6cad3eff5adc29e20f189a6c",
+            "profile_url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK",
+            "genres": [
+                "atl hip hop",
+                "atl trap",
+                "rap",
+                "trap"
+            ],
+            "tracklist": [
+                "44I7sqKYCAa7bQdVywkShO"
+            ]
+        },
+        {
+            "name": "Johnny Jewel",
+            "artist_id": "2KofAEA8S0jDDXjSg6a3HR",
+            "popularity": 41,
+            "followers": 27930,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb565851c568d3caed3d2e4134",
+            "profile_url": "https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR",
+            "genres": [
+                "dark jazz"
+            ],
+            "tracklist": [
+                "6lrHwWBbbkFjdOWk16Et4I",
+                "6lrHwWBbbkFjdOWk16Et4I"
+            ]
+        },
+        {
+            "name": "Chromatics",
+            "artist_id": "4tOVIRjlWWfR1RrAxyRqTE",
+            "popularity": 56,
+            "followers": 397884,
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebff7c66df88410e55c67df046",
+            "profile_url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE",
+            "genres": [
+                "alternative dance",
+                "art pop",
+                "chillwave",
+                "dream pop",
+                "electronica",
+                "electropop",
+                "modern dream pop",
+                "neo-synthpop",
+                "new rave"
+            ],
+            "tracklist": [
+                "6lrHwWBbbkFjdOWk16Et4I",
+                "6lrHwWBbbkFjdOWk16Et4I"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "2KofAEA8S0jDDXjSg6a3HR",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_2KofAEA8S0jDDXjSg6a3HR_6lrHwWBbbkFjdOWk16Et4I",
+            "track_id": "6lrHwWBbbkFjdOWk16Et4I",
+            "name": "Blinding Lights - Chromatics Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6lrHwWBbbkFjdOWk16Et4I",
+            "collab_count": 2
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "4tOVIRjlWWfR1RrAxyRqTE",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_4tOVIRjlWWfR1RrAxyRqTE_6lrHwWBbbkFjdOWk16Et4I",
+            "track_id": "6lrHwWBbbkFjdOWk16Et4I",
+            "name": "Blinding Lights - Chromatics Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6lrHwWBbbkFjdOWk16Et4I",
+            "collab_count": 2
+        },
+        {
+            "source": "2KofAEA8S0jDDXjSg6a3HR",
+            "target": "4tOVIRjlWWfR1RrAxyRqTE",
+            "connection_id": "2KofAEA8S0jDDXjSg6a3HR_4tOVIRjlWWfR1RrAxyRqTE_6lrHwWBbbkFjdOWk16Et4I",
+            "track_id": "6lrHwWBbbkFjdOWk16Et4I",
+            "name": "Blinding Lights - Chromatics Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6lrHwWBbbkFjdOWk16Et4I",
+            "collab_count": 2
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "2KofAEA8S0jDDXjSg6a3HR",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_2KofAEA8S0jDDXjSg6a3HR_6lrHwWBbbkFjdOWk16Et4I",
+            "track_id": "6lrHwWBbbkFjdOWk16Et4I",
+            "name": "Blinding Lights - Chromatics Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6lrHwWBbbkFjdOWk16Et4I",
+            "collab_count": 2
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "4tOVIRjlWWfR1RrAxyRqTE",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_4tOVIRjlWWfR1RrAxyRqTE_6lrHwWBbbkFjdOWk16Et4I",
+            "track_id": "6lrHwWBbbkFjdOWk16Et4I",
+            "name": "Blinding Lights - Chromatics Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6lrHwWBbbkFjdOWk16Et4I",
+            "collab_count": 2
+        },
+        {
+            "source": "2KofAEA8S0jDDXjSg6a3HR",
+            "target": "4tOVIRjlWWfR1RrAxyRqTE",
+            "connection_id": "2KofAEA8S0jDDXjSg6a3HR_4tOVIRjlWWfR1RrAxyRqTE_6lrHwWBbbkFjdOWk16Et4I",
+            "track_id": "6lrHwWBbbkFjdOWk16Et4I",
+            "name": "Blinding Lights - Chromatics Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6lrHwWBbbkFjdOWk16Et4I",
+            "collab_count": 2
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "4O15NlyKLIASxsJ0PrXPfz",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_4O15NlyKLIASxsJ0PrXPfz_3sqBs5ksVAm4dJuNiCulzQ",
+            "track_id": "3sqBs5ksVAm4dJuNiCulzQ",
+            "name": "Heartless - Vapor Wave Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/3sqBs5ksVAm4dJuNiCulzQ",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "6yP3ZB6Fy3U4IBlHjcLS4Q",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_6yP3ZB6Fy3U4IBlHjcLS4Q_3sqBs5ksVAm4dJuNiCulzQ",
+            "track_id": "3sqBs5ksVAm4dJuNiCulzQ",
+            "name": "Heartless - Vapor Wave Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/3sqBs5ksVAm4dJuNiCulzQ",
+            "collab_count": 1
+        },
+        {
+            "source": "4O15NlyKLIASxsJ0PrXPfz",
+            "target": "6yP3ZB6Fy3U4IBlHjcLS4Q",
+            "connection_id": "4O15NlyKLIASxsJ0PrXPfz_6yP3ZB6Fy3U4IBlHjcLS4Q_3sqBs5ksVAm4dJuNiCulzQ",
+            "track_id": "3sqBs5ksVAm4dJuNiCulzQ",
+            "name": "Heartless - Vapor Wave Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/3sqBs5ksVAm4dJuNiCulzQ",
+            "collab_count": 1
+        },
+        {
+            "source": "1Dt1UKLtrJIW1xxRBejjos",
+            "target": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "connection_id": "1Dt1UKLtrJIW1xxRBejjos_1Xyo4u8uXC1ZmMpatF05PJ_6H8j8dfwnqQgOPkBafWwhS",
+            "track_id": "6H8j8dfwnqQgOPkBafWwhS",
+            "name": "After Hours - The Blaze Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6H8j8dfwnqQgOPkBafWwhS",
+            "collab_count": 2
+        },
+        {
+            "source": "1Dt1UKLtrJIW1xxRBejjos",
+            "target": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "connection_id": "1Dt1UKLtrJIW1xxRBejjos_1Xyo4u8uXC1ZmMpatF05PJ_6H8j8dfwnqQgOPkBafWwhS",
+            "track_id": "6H8j8dfwnqQgOPkBafWwhS",
+            "name": "After Hours - The Blaze Remix",
+            "popularity": 0,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/6H8j8dfwnqQgOPkBafWwhS",
+            "collab_count": 2
+        },
+        {
+            "source": "13ubrt8QOOCPljQ2FL1Kca",
+            "target": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "connection_id": "13ubrt8QOOCPljQ2FL1Kca_1Xyo4u8uXC1ZmMpatF05PJ_7F1LWA9sIlTorHUo4amGqk",
+            "track_id": "7F1LWA9sIlTorHUo4amGqk",
+            "name": "Reminder - Remix",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/d445e701693cb081c08aab488fd874814809081b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7F1LWA9sIlTorHUo4amGqk",
+            "collab_count": 1
+        },
+        {
+            "source": "13ubrt8QOOCPljQ2FL1Kca",
+            "target": "50co4Is1HCEo8bhOyUWKpn",
+            "connection_id": "13ubrt8QOOCPljQ2FL1Kca_50co4Is1HCEo8bhOyUWKpn_7F1LWA9sIlTorHUo4amGqk",
+            "track_id": "7F1LWA9sIlTorHUo4amGqk",
+            "name": "Reminder - Remix",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/d445e701693cb081c08aab488fd874814809081b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7F1LWA9sIlTorHUo4amGqk",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "50co4Is1HCEo8bhOyUWKpn",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_50co4Is1HCEo8bhOyUWKpn_7F1LWA9sIlTorHUo4amGqk",
+            "track_id": "7F1LWA9sIlTorHUo4amGqk",
+            "name": "Reminder - Remix",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/d445e701693cb081c08aab488fd874814809081b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7F1LWA9sIlTorHUo4amGqk",
+            "collab_count": 2
+        },
+        {
+            "source": "00FQb4jTyendYWaN8pK0wa",
+            "target": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "connection_id": "00FQb4jTyendYWaN8pK0wa_1Xyo4u8uXC1ZmMpatF05PJ_5hzey1kBGjy3B8tDGcyRTY",
+            "track_id": "5hzey1kBGjy3B8tDGcyRTY",
+            "name": "Lust for Life (with The Weeknd)",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/7b1d9ecd7da2a56a3580e37ccaf7646df17b788a?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5hzey1kBGjy3B8tDGcyRTY",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_2YZyLoL8N0Wb9xBt1NhZWg_77UjLW8j5UAGAGVGhR5oUK",
+            "track_id": "77UjLW8j5UAGAGVGhR5oUK",
+            "name": "Pray For Me (with Kendrick Lamar)",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/f63fc53bf50fddf812071d8afe3b906e6688a8a1?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "1r4hJ1h58CWwUQe3MxPuau",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_1r4hJ1h58CWwUQe3MxPuau_0GzuHFG4Ql6DoyxFRnIk3F",
+            "track_id": "0GzuHFG4Ql6DoyxFRnIk3F",
+            "name": "Hawái - Remix",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/34baf30abf14111ead12dd1bea521f13bc8b9d1a?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F",
+            "collab_count": 1
+        },
+        {
+            "source": "0FOWNUFHPnMy0vOw1siGqi",
+            "target": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "connection_id": "0FOWNUFHPnMy0vOw1siGqi_1Xyo4u8uXC1ZmMpatF05PJ_3JvdrCezbM6DQOjNiBiX5q",
+            "track_id": "3JvdrCezbM6DQOjNiBiX5q",
+            "name": "Die For It (ft. Nas)",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/24afac5d2b2e7ce1181eeb0fb36718a9ebe77aac?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3JvdrCezbM6DQOjNiBiX5q",
+            "collab_count": 2
+        },
+        {
+            "source": "0FOWNUFHPnMy0vOw1siGqi",
+            "target": "20qISvAhX20dpIbOOzGK3q",
+            "connection_id": "0FOWNUFHPnMy0vOw1siGqi_20qISvAhX20dpIbOOzGK3q_3JvdrCezbM6DQOjNiBiX5q",
+            "track_id": "3JvdrCezbM6DQOjNiBiX5q",
+            "name": "Die For It (ft. Nas)",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/24afac5d2b2e7ce1181eeb0fb36718a9ebe77aac?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3JvdrCezbM6DQOjNiBiX5q",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "20qISvAhX20dpIbOOzGK3q",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_20qISvAhX20dpIbOOzGK3q_3JvdrCezbM6DQOjNiBiX5q",
+            "track_id": "3JvdrCezbM6DQOjNiBiX5q",
+            "name": "Die For It (ft. Nas)",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/24afac5d2b2e7ce1181eeb0fb36718a9ebe77aac?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3JvdrCezbM6DQOjNiBiX5q",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "1h6Cn3P4NGzXbaXidqURXs",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_1h6Cn3P4NGzXbaXidqURXs_2gpWyfu7eZ01zzncHpxOtA",
+            "track_id": "2gpWyfu7eZ01zzncHpxOtA",
+            "name": "Moth To A Flame (with The Weeknd)",
+            "popularity": 22,
+            "preview_url": null,
+            "spotify_link": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA",
+            "collab_count": 3
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "5K4W6rqBFWDnAN6FQUkS6x",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_5K4W6rqBFWDnAN6FQUkS6x_44I7sqKYCAa7bQdVywkShO",
+            "track_id": "44I7sqKYCAa7bQdVywkShO",
+            "name": "Hurricane",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/b57f297bb60e965c733725f0aeb7c40516ca5558?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_5f7VJjfbwm532GiveGC0ZK_44I7sqKYCAa7bQdVywkShO",
+            "track_id": "44I7sqKYCAa7bQdVywkShO",
+            "name": "Hurricane",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/b57f297bb60e965c733725f0aeb7c40516ca5558?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO",
+            "collab_count": 1
+        },
+        {
+            "source": "5K4W6rqBFWDnAN6FQUkS6x",
+            "target": "5f7VJjfbwm532GiveGC0ZK",
+            "connection_id": "5K4W6rqBFWDnAN6FQUkS6x_5f7VJjfbwm532GiveGC0ZK_44I7sqKYCAa7bQdVywkShO",
+            "track_id": "44I7sqKYCAa7bQdVywkShO",
+            "name": "Hurricane",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/b57f297bb60e965c733725f0aeb7c40516ca5558?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO",
+            "collab_count": 1
+        },
+        {
+            "source": "0FOWNUFHPnMy0vOw1siGqi",
+            "target": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "connection_id": "0FOWNUFHPnMy0vOw1siGqi_1Xyo4u8uXC1ZmMpatF05PJ_3zs87EV3EZSh2UpiXxT52Y",
+            "track_id": "3zs87EV3EZSh2UpiXxT52Y",
+            "name": "Better Believe",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a2492e48f5b2f39d5f2f8108d1f860e6ac6c720?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3zs87EV3EZSh2UpiXxT52Y",
+            "collab_count": 2
+        },
+        {
+            "source": "0FOWNUFHPnMy0vOw1siGqi",
+            "target": "50co4Is1HCEo8bhOyUWKpn",
+            "connection_id": "0FOWNUFHPnMy0vOw1siGqi_50co4Is1HCEo8bhOyUWKpn_3zs87EV3EZSh2UpiXxT52Y",
+            "track_id": "3zs87EV3EZSh2UpiXxT52Y",
+            "name": "Better Believe",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a2492e48f5b2f39d5f2f8108d1f860e6ac6c720?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3zs87EV3EZSh2UpiXxT52Y",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "50co4Is1HCEo8bhOyUWKpn",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_50co4Is1HCEo8bhOyUWKpn_3zs87EV3EZSh2UpiXxT52Y",
+            "track_id": "3zs87EV3EZSh2UpiXxT52Y",
+            "name": "Better Believe",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a2492e48f5b2f39d5f2f8108d1f860e6ac6c720?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3zs87EV3EZSh2UpiXxT52Y",
+            "collab_count": 2
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "5cj0lLjcoR7YOSnhnX0Po5",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_5cj0lLjcoR7YOSnhnX0Po5_0IakguBBeTUsAILmugkEam",
+            "track_id": "0IakguBBeTUsAILmugkEam",
+            "name": "You Right",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/6f9e50e5f716c7e2441d4e0262304656c5b108fa?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/0IakguBBeTUsAILmugkEam",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "4V8LLVI7PbaPR0K2TGSxFF",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_4V8LLVI7PbaPR0K2TGSxFF_1NhjYYcYTRywc0di98xHxf",
+            "track_id": "1NhjYYcYTRywc0di98xHxf",
+            "name": "Here We Go… Again (feat. Tyler, the Creator)",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a9c7c48073798a8b515fd7913bf25f559b107e1?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "55Aa2cqylxrFIXC767Z865",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_55Aa2cqylxrFIXC767Z865_5XbA7TAqsD0fj0dGBrbb0D",
+            "track_id": "5XbA7TAqsD0fj0dGBrbb0D",
+            "name": "I Heard You’re Married (feat. Lil Wayne)",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b10aaa3abe48091dc502dba4a0b87d0cc734247?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "3TVXtAsR1Inumwj472S9r4",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_3TVXtAsR1Inumwj472S9r4_53qYItjefG5SUf62428dIw",
+            "track_id": "53qYItjefG5SUf62428dIw",
+            "name": "The Zone - Original",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/e1992270ef2622751a9974a13694f04fdf62946b?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/53qYItjefG5SUf62428dIw",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "6qgnBH6iDM91ipVXv28OMu",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_6qgnBH6iDM91ipVXv28OMu_4Rrj1QxDqsj28gv9SiHQRA",
+            "track_id": "4Rrj1QxDqsj28gv9SiHQRA",
+            "name": "Out of Time - KAYTRANADA Remix",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/518a289260867999fac507a386c669eefd9999d5?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA",
+            "collab_count": 3
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "6qgnBH6iDM91ipVXv28OMu",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_6qgnBH6iDM91ipVXv28OMu_5wyFsVGDdrOZM0nf2D4p8f",
+            "track_id": "5wyFsVGDdrOZM0nf2D4p8f",
+            "name": "Out of Time - KAYTRANADA Remix / Radio Edit",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/88c7acc04030a098a51aedc986ecba636c0e322e?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/5wyFsVGDdrOZM0nf2D4p8f",
+            "collab_count": 3
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "1h6Cn3P4NGzXbaXidqURXs",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_1h6Cn3P4NGzXbaXidqURXs_1lzRZsQ6w0mg8xcGxmzWzx",
+            "track_id": "1lzRZsQ6w0mg8xcGxmzWzx",
+            "name": "Moth To A Flame (with The Weeknd)",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/2506ff4d789b46c08cf4b1623864e1306e38a68a?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1lzRZsQ6w0mg8xcGxmzWzx",
+            "collab_count": 3
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "1h6Cn3P4NGzXbaXidqURXs",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_1h6Cn3P4NGzXbaXidqURXs_6RlLT2inT5c5VahF22SAyj",
+            "track_id": "6RlLT2inT5c5VahF22SAyj",
+            "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/08036517083c7b9b9497dc38aa11d2629daffe92?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/6RlLT2inT5c5VahF22SAyj",
+            "collab_count": 3
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "6qgnBH6iDM91ipVXv28OMu",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_6qgnBH6iDM91ipVXv28OMu_36aoiqTQcBGDb7bAO3n5XO",
+            "track_id": "36aoiqTQcBGDb7bAO3n5XO",
+            "name": "Out of Time - KAYTRANADA Remix",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/518a289260867999fac507a386c669eefd9999d5?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/36aoiqTQcBGDb7bAO3n5XO",
+            "collab_count": 3
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "5PdkRVDASsw6P7QoqRpz0F",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_5PdkRVDASsw6P7QoqRpz0F_1DQGIcihPgi4kDCdx1fEn0",
+            "track_id": "1DQGIcihPgi4kDCdx1fEn0",
+            "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/45b5a7d0c236e7de5df4536d4756d756f7012115?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "6hyMWrxGBsOx6sWcVj1DqP",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_6hyMWrxGBsOx6sWcVj1DqP_1DQGIcihPgi4kDCdx1fEn0",
+            "track_id": "1DQGIcihPgi4kDCdx1fEn0",
+            "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/45b5a7d0c236e7de5df4536d4756d756f7012115?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0",
+            "collab_count": 1
+        },
+        {
+            "source": "5PdkRVDASsw6P7QoqRpz0F",
+            "target": "6hyMWrxGBsOx6sWcVj1DqP",
+            "connection_id": "5PdkRVDASsw6P7QoqRpz0F_6hyMWrxGBsOx6sWcVj1DqP_1DQGIcihPgi4kDCdx1fEn0",
+            "track_id": "1DQGIcihPgi4kDCdx1fEn0",
+            "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/45b5a7d0c236e7de5df4536d4756d756f7012115?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "57LYzLEk2LcFghVwuWbcuS",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_57LYzLEk2LcFghVwuWbcuS_3YZmW6AUHsbN7KhOTd944i",
+            "track_id": "3YZmW6AUHsbN7KhOTd944i",
+            "name": "Best Friends - Remix",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/50e4548d4294e606f487af6971e3f635c4329e61?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i",
+            "collab_count": 1
+        },
+        {
+            "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "target": "66CXWjxzNUsdJxJ2JdwvnR",
+            "connection_id": "1Xyo4u8uXC1ZmMpatF05PJ_66CXWjxzNUsdJxJ2JdwvnR_7oDd86yk8itslrA9HRP2ki",
+            "track_id": "7oDd86yk8itslrA9HRP2ki",
+            "name": "Die For You - Remix",
+            "popularity": 90,
+            "preview_url": "https://p.scdn.co/mp3-preview/82b56807037e361fed61c53feceff668e5c93cee?cid=94ee552367c24facb196ab4958141d69",
+            "spotify_link": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki",
+            "collab_count": 1
+        }
+    ]
+}

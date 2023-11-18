@@ -1,0 +1,272 @@
+{
+    "nodes": [
+        {
+            "artist_id": "7rkW85dBwwrJtlHRDkJDAC",
+            "followers": 3225395,
+            "genres": [
+                "canadian hip hop",
+                "canadian trap",
+                "hip hop",
+                "melodic rap",
+                "rap",
+                "toronto rap",
+                "trap"
+            ],
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebf276b6e4b25bb6fb7b942ab2",
+            "name": "NAV",
+            "popularity": 78,
+            "profile_url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC",
+            "tracklist": [
+                "1Faq8G2y56A8fRv7HsLq25"
+            ]
+        },
+        {
+            "artist_id": "4O15NlyKLIASxsJ0PrXPfz",
+            "followers": 14637720,
+            "genres": [
+                "melodic rap",
+                "philly rap",
+                "rap",
+                "trap"
+            ],
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb30122c0d3ead72f96bb5ee93",
+            "name": "Lil Uzi Vert",
+            "popularity": 89,
+            "profile_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+            "tracklist": [
+                "2eAZfqOm4EnOF9VvN50Tyc",
+                "6GNifiuBPrKFpwNBYnooFm",
+                "0uxSUdBrJy9Un0EYoBowng",
+                "1a7WZZZH7LzyvorhpOJFTe",
+                "7GX5flRQZVHRAGd6B4TmDO",
+                "2ZdCrBA52bb4pIG3tOOZiQ",
+                "1C8ux1YWLMHCenYJFiIV4Z",
+                "1xcOYJxDa5pObgxY1r0I9c",
+                "1Faq8G2y56A8fRv7HsLq25",
+                "3kW4z2pIj5VY5fLjBrMRL5"
+            ]
+        },
+        {
+            "artist_id": "5QdEbQJ3ylBnc3gsIASAT5",
+            "followers": 1731477,
+            "genres": [
+                "chicago drill",
+                "chicago rap",
+                "drill",
+                "rap",
+                "southern hip hop",
+                "trap"
+            ],
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb3841d7b1105afed2dad3ca24",
+            "name": "G Herbo",
+            "popularity": 74,
+            "profile_url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5",
+            "tracklist": [
+                "1C8ux1YWLMHCenYJFiIV4Z"
+            ]
+        },
+        {
+            "artist_id": "1anyVhU62p31KFi8MEzkbf",
+            "followers": 5826915,
+            "genres": [
+                "chicago rap",
+                "conscious hip hop",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eba6ab3c4df02cec59758ae3fa",
+            "name": "Chance the Rapper",
+            "popularity": 76,
+            "profile_url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf",
+            "tracklist": [
+                "1C8ux1YWLMHCenYJFiIV4Z"
+            ]
+        },
+        {
+            "artist_id": "0hCNtLu0JehylgoiP8L4Gh",
+            "followers": 27475869,
+            "genres": [
+                "dance pop",
+                "hip pop",
+                "pop",
+                "queens hip hop",
+                "rap"
+            ],
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20",
+            "name": "Nicki Minaj",
+            "popularity": 88,
+            "profile_url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh",
+            "tracklist": [
+                "6GNifiuBPrKFpwNBYnooFm"
+            ]
+        },
+        {
+            "artist_id": "5cIc3SBFuBLVxJz58W2tU9",
+            "followers": 1045797,
+            "genres": [
+                "electropop"
+            ],
+            "img_url": "https://i.scdn.co/image/ab6761610000e5ebe3f0834baf029d28a2946a8d",
+            "name": "Oh Wonder",
+            "popularity": 70,
+            "profile_url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9",
+            "tracklist": [
+                "2eAZfqOm4EnOF9VvN50Tyc",
+                "6GNifiuBPrKFpwNBYnooFm"
+            ]
+        },
+        {
+            "artist_id": "4MCBfE4596Uoi2O4DtmEMz",
+            "followers": 27957569,
+            "genres": [
+                "chicago rap",
+                "melodic rap"
+            ],
+            "img_url": "https://i.scdn.co/image/ab6761610000e5eb1908e1a8b79abf71d5598944",
+            "name": "Juice WRLD",
+            "popularity": 92,
+            "profile_url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz",
+            "tracklist": [
+                "1a7WZZZH7LzyvorhpOJFTe",
+                "1C8ux1YWLMHCenYJFiIV4Z"
+            ]
+        }
+    ],
+
+
+    "links": [
+        {
+            "collab_count": 2,
+            "connection_id": "4O15NlyKLIASxsJ0PrXPfz_5cIc3SBFuBLVxJz58W2tU9_2eAZfqOm4EnOF9VvN50Tyc",
+            "name": "The Way Life Goes (feat. Oh Wonder)",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/32da68e16f079d6bae7afd74d8c02f51bd26e491?cid=94ee552367c24facb196ab4958141d69",
+            "source": "4O15NlyKLIASxsJ0PrXPfz",
+            "spotify_link": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc",
+            "target": "5cIc3SBFuBLVxJz58W2tU9",
+            "track_id": "2eAZfqOm4EnOF9VvN50Tyc"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "0hCNtLu0JehylgoiP8L4Gh_4O15NlyKLIASxsJ0PrXPfz_6GNifiuBPrKFpwNBYnooFm",
+            "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9365d82a1e1641aa7d6723fed7681262b70be9e?cid=94ee552367c24facb196ab4958141d69",
+            "source": "0hCNtLu0JehylgoiP8L4Gh",
+            "spotify_link": "https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm",
+            "target": "4O15NlyKLIASxsJ0PrXPfz",
+            "track_id": "6GNifiuBPrKFpwNBYnooFm"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "0hCNtLu0JehylgoiP8L4Gh_5cIc3SBFuBLVxJz58W2tU9_6GNifiuBPrKFpwNBYnooFm",
+            "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9365d82a1e1641aa7d6723fed7681262b70be9e?cid=94ee552367c24facb196ab4958141d69",
+            "source": "0hCNtLu0JehylgoiP8L4Gh",
+            "spotify_link": "https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm",
+            "target": "5cIc3SBFuBLVxJz58W2tU9",
+            "track_id": "6GNifiuBPrKFpwNBYnooFm"
+        },
+        {
+            "collab_count": 2,
+            "connection_id": "4O15NlyKLIASxsJ0PrXPfz_5cIc3SBFuBLVxJz58W2tU9_6GNifiuBPrKFpwNBYnooFm",
+            "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9365d82a1e1641aa7d6723fed7681262b70be9e?cid=94ee552367c24facb196ab4958141d69",
+            "source": "4O15NlyKLIASxsJ0PrXPfz",
+            "spotify_link": "https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm",
+            "target": "5cIc3SBFuBLVxJz58W2tU9",
+            "track_id": "6GNifiuBPrKFpwNBYnooFm"
+        },
+        {
+            "collab_count": 2,
+            "connection_id": "4MCBfE4596Uoi2O4DtmEMz_4O15NlyKLIASxsJ0PrXPfz_1a7WZZZH7LzyvorhpOJFTe",
+            "name": "Wasted (feat. Lil Uzi Vert)",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c6c8ce333b613db60b57048a3df7eb3963c6853?cid=94ee552367c24facb196ab4958141d69",
+            "source": "4MCBfE4596Uoi2O4DtmEMz",
+            "spotify_link": "https://open.spotify.com/track/1a7WZZZH7LzyvorhpOJFTe",
+            "target": "4O15NlyKLIASxsJ0PrXPfz",
+            "track_id": "1a7WZZZH7LzyvorhpOJFTe"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "1anyVhU62p31KFi8MEzkbf_4MCBfE4596Uoi2O4DtmEMz_1C8ux1YWLMHCenYJFiIV4Z",
+            "name": "PTSD",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f88b396feed51439b75823ecb08664f23d0d44b?cid=94ee552367c24facb196ab4958141d69",
+            "source": "1anyVhU62p31KFi8MEzkbf",
+            "spotify_link": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z",
+            "target": "4MCBfE4596Uoi2O4DtmEMz",
+            "track_id": "1C8ux1YWLMHCenYJFiIV4Z"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "1anyVhU62p31KFi8MEzkbf_4O15NlyKLIASxsJ0PrXPfz_1C8ux1YWLMHCenYJFiIV4Z",
+            "name": "PTSD",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f88b396feed51439b75823ecb08664f23d0d44b?cid=94ee552367c24facb196ab4958141d69",
+            "source": "1anyVhU62p31KFi8MEzkbf",
+            "spotify_link": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z",
+            "target": "4O15NlyKLIASxsJ0PrXPfz",
+            "track_id": "1C8ux1YWLMHCenYJFiIV4Z"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "1anyVhU62p31KFi8MEzkbf_5QdEbQJ3ylBnc3gsIASAT5_1C8ux1YWLMHCenYJFiIV4Z",
+            "name": "PTSD",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f88b396feed51439b75823ecb08664f23d0d44b?cid=94ee552367c24facb196ab4958141d69",
+            "source": "1anyVhU62p31KFi8MEzkbf",
+            "spotify_link": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z",
+            "target": "5QdEbQJ3ylBnc3gsIASAT5",
+            "track_id": "1C8ux1YWLMHCenYJFiIV4Z"
+        },
+        {
+            "collab_count": 2,
+            "connection_id": "4MCBfE4596Uoi2O4DtmEMz_4O15NlyKLIASxsJ0PrXPfz_1C8ux1YWLMHCenYJFiIV4Z",
+            "name": "PTSD",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f88b396feed51439b75823ecb08664f23d0d44b?cid=94ee552367c24facb196ab4958141d69",
+            "source": "4MCBfE4596Uoi2O4DtmEMz",
+            "spotify_link": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z",
+            "target": "4O15NlyKLIASxsJ0PrXPfz",
+            "track_id": "1C8ux1YWLMHCenYJFiIV4Z"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "4MCBfE4596Uoi2O4DtmEMz_5QdEbQJ3ylBnc3gsIASAT5_1C8ux1YWLMHCenYJFiIV4Z",
+            "name": "PTSD",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f88b396feed51439b75823ecb08664f23d0d44b?cid=94ee552367c24facb196ab4958141d69",
+            "source": "4MCBfE4596Uoi2O4DtmEMz",
+            "spotify_link": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z",
+            "target": "5QdEbQJ3ylBnc3gsIASAT5",
+            "track_id": "1C8ux1YWLMHCenYJFiIV4Z"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "4O15NlyKLIASxsJ0PrXPfz_5QdEbQJ3ylBnc3gsIASAT5_1C8ux1YWLMHCenYJFiIV4Z",
+            "name": "PTSD",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f88b396feed51439b75823ecb08664f23d0d44b?cid=94ee552367c24facb196ab4958141d69",
+            "source": "4O15NlyKLIASxsJ0PrXPfz",
+            "spotify_link": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z",
+            "target": "5QdEbQJ3ylBnc3gsIASAT5",
+            "track_id": "1C8ux1YWLMHCenYJFiIV4Z"
+        },
+        {
+            "collab_count": 1,
+            "connection_id": "4O15NlyKLIASxsJ0PrXPfz_7rkW85dBwwrJtlHRDkJDAC_1Faq8G2y56A8fRv7HsLq25",
+            "name": "Wanted You (feat. Lil Uzi Vert)",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d5a1dece7b62d2983e71580138a752417bc62c6?cid=94ee552367c24facb196ab4958141d69",
+            "source": "4O15NlyKLIASxsJ0PrXPfz",
+            "spotify_link": "https://open.spotify.com/track/1Faq8G2y56A8fRv7HsLq25",
+            "target": "7rkW85dBwwrJtlHRDkJDAC",
+            "track_id": "1Faq8G2y56A8fRv7HsLq25"
+        }
+    ]
+}
