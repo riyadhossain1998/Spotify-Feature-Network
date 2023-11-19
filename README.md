@@ -17,7 +17,7 @@ This is a music visualization application built with Flask, D3.js & SpotiPy.
    <br><br>
 
 
-##  Future Plans
+##  Ongoing Tasks
 1. Gather more data about more artists to visualize, fix the artist data that haven't been fetched yet.
    <br><br>
 2. Create more user-friendly graph interactions.
